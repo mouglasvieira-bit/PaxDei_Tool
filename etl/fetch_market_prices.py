@@ -9,7 +9,15 @@ try:
 except ImportError:
     HfApi = None
 
+try:
+    from dotenv import load_dotenv
+except ImportError:
+    load_dotenv = None
+
 def main():
+    if load_dotenv:
+        load_dotenv()
+
     # Relative Paths
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     data_dir = os.path.join(base_dir, "data")
