@@ -39,6 +39,7 @@ jobs:
     - name: Commit and Push (Optional Backup)
       # This step commits the new parquet file back to the repo as a backup.
       # Requires "Read and write permissions" in Repo Settings > Actions > General > Workflow permissions
+      continue-on-error: true
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
