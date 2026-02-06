@@ -200,6 +200,7 @@ def main():
                     print("HF_REPO_ID not set. Skipping upload.")
             except Exception as e:
                 print(f"Failed to upload to HF: {e}")
+                exit(1) # Fail the workflow!
         elif not HfApi:
             print("huggingface_hub not installed. Skipping upload.")
         else:
