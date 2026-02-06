@@ -198,6 +198,7 @@ def main():
                     print(f"Uploaded to {repo_id}/{path_in_repo}")
                 else:
                     print("HF_REPO_ID not set. Skipping upload.")
+                    exit(1) # Fail if config missing
             except Exception as e:
                 print(f"Failed to upload to HF: {e}")
                 exit(1) # Fail the workflow!
