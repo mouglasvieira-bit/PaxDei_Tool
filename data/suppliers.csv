@@ -1,0 +1,16 @@
+Supplier,Item,Unit_Price,Stack_Price,Box_Price,Location,Notes
+Xien & Eeva,Iron Ingot,,50.00,2000.00,Pleden,
+Xien & Eeva,Bronze Ingot,,75.00,3000.00,Pleden,
+Xien & Eeva,Steel Ingot,,300.00,12000.00,Pleden,
+Xien & Eeva,Charcoal,,22.50,900.00,Pleden,
+Xien & Eeva,Wrought Iron Ingot,,100.00,4000.00,Pleden,
+Mondo,Wrought Iron Ingot,,140.00,5600.00,Sibela (Ancien),Assumed 140 is Stack Price
+Carlr,Wrought Iron Ingot,,125.00,5000.00,Astrazenica (Ancien),
+Ahrzrielle Keorah,Antlers,,225.00,9000.00,Llydaw,
+Anibell,Wrought Iron Ingot,,,,Gael,
+Arndrac,Wrought Iron Ingot,,83.33,3333.33,Gael,10k for 3 boxes
+Zerotio,Wool Felt,,,,Caster,
+Zerotio,Cotton Wedding,,,,Caster,
+Townfolk,Unspecified,,,,Rabesperrie (Shire),
+Dbob,Iron Ingot,,,,Caster,
+Ceadeborn,Antlers,,,,Bearm,

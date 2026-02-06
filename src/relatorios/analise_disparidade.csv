@@ -1,0 +1,680 @@
+Produto,Custo_Manufatura,Preco_Venda,Spread,Margem_Perc,Mercado_Venda,Sourcing_Insumos
+Attuned Sylvan Staff IV,182.45,4444.0,4261.55,95.9,merrie-ulaid,Tattered Locket@kerys-aven; Quicksilver@kerys-aven; Fine Spear Shaft@merrie-shire; Long Fine Wood Stock@kerys-llydaw; Cotton Cord@merrie-nene; Coarse Leather Band@merrie-ardbog; Linseed Oil@kerys-aven
+Attuned Staff of Zephyr IV,830.45,4444.0,3613.55,81.3,merrie-ulaid,Cubic Ethereal Crystal@kerys-bronyr; Pearl@kerys-dolavon; Fine Spear Shaft@merrie-shire; Long Fine Wood Stock@kerys-llydaw; Cotton Cord@merrie-nene; Coarse Leather Band@merrie-ardbog; Linseed Oil@kerys-aven
+Warded Staff of Divine III,1638.5,5000.0,3361.5,67.2,kerys-tremen,Multifaceted Ethereal Crystal@inis_gallia-vitry; Great Locket of the Horizon@kerys-aven; Starwort@kerys-pladenn; Spear Shaft@inis_gallia-jura; Long Fine Wood Stock@kerys-llydaw; Wool Yarn@ancien-tursan; Coarse Leather Band@merrie-ardbog; Linseed Oil@kerys-aven; Bronze Sheet@inis_gallia-trecassis
+Attuned Sylvan Staff III,1678.3,5000.0,3321.7,66.4,inis_gallia-langres,Cracked Sigil@inis_gallia-langres; Hematite@ancien-tolosa; Spear Shaft@inis_gallia-jura; Long Fine Wood Stock@kerys-llydaw; Wool Yarn@ancien-tursan; Coarse Leather Band@merrie-ardbog; Linseed Oil@kerys-aven; Bronze Sheet@inis_gallia-trecassis
+Attuned Staff of Divine IV,930.45,3500.0,2569.55,73.4,merrie-ulaid,Cubic Ethereal Crystal@kerys-bronyr; Cuprite@kerys-dreger; Fine Spear Shaft@merrie-shire; Long Fine Wood Stock@kerys-llydaw; Cotton Cord@merrie-nene; Coarse Leather Band@merrie-ardbog; Linseed Oil@kerys-aven
+Steel Anvil Head,610.8,3000.0,2389.2,79.6,kerys-dolavon,Steel Ingot@kerys-dolavon; Charcoal@merrie-shire
+Warded Wrought Iron Battleaxe,211.2,2499.0,2287.8,91.5,merrie-ulaid,Cracked Locket@kerys-aven; Great Orb of the Twilight@ancien-astarac; Axe Handle@ancien-tursan; Wrought Iron Axe Head@merrie-ulaid; Iron Nails@merrie-wiht; Coarse Leather Band@merrie-ardbog; Wrought Iron Spike@ancien-tursan
+Attuned Staff of Zephyr III,634.6,2500.0,1865.4,74.6,inis_gallia-javerdus,Multifaceted Ethereal Crystal@inis_gallia-vitry; Starwort Extract@inis_gallia-trecassis; Spear Shaft@inis_gallia-jura; Long Fine Wood Stock@kerys-llydaw; Wool Yarn@ancien-tursan; Coarse Leather Band@merrie-ardbog; Linseed Oil@kerys-aven; Bronze Sheet@inis_gallia-trecassis
+Warded Two-handed Iron Spear,1160.21,2995.0,1834.79,61.3,ancien-tolosa,Worn Out Locket@kerys-llydaw; Relic of the Passage@kerys-pladenn; Spear Shaft@inis_gallia-jura; Iron Spike@inis_gallia-nones; Bronze Nails@kerys-aven; Coarse Leather Band@merrie-ardbog; Iron Bar@inis_gallia-nones
+Staff of Zephyr IV,230.45,1750.0,1519.55,86.8,merrie-shire,Pearl@kerys-dolavon; Fine Spear Shaft@merrie-shire; Long Fine Wood Stock@kerys-llydaw; Cotton Cord@merrie-nene; Coarse Leather Band@merrie-ardbog; Linseed Oil@kerys-aven
+Attuned Wrought Iron Heater,125.8,1500.0,1374.2,91.6,kerys-aven,Cracked Locket@kerys-aven; Fine Wooden Plank@ancien-tursan; Wrought Iron Sheet@ancien-astarac; Wrought Iron Studs@ancien-lavedan; Coarse Leather Band@merrie-ardbog
+Warded Hunter's Bow,166.05,1000.0,833.95,83.4,inis_gallia-vitry,Carved Collarstone@inis_gallia-jura; Great Token of the Whisper@ancien-astarac; Bow Stave@kerys-pladenn; Boar Sinew@merrie-gael; Linseed Oil@kerys-aven; Coarse Leather Band@merrie-ardbog
+Staff of Divine IV,330.45,1000.0,669.55,67.0,ancien-armanhac,Cuprite@kerys-dreger; Fine Spear Shaft@merrie-shire; Long Fine Wood Stock@kerys-llydaw; Cotton Cord@merrie-nene; Coarse Leather Band@merrie-ardbog; Linseed Oil@kerys-aven
+Attuned Wrought Iron Battleaxe,111.2,700.0,588.8,84.1,inis_gallia-aras,Cracked Locket@kerys-aven; Axe Handle@ancien-tursan; Wrought Iron Axe Head@merrie-ulaid; Iron Nails@merrie-wiht; Coarse Leather Band@merrie-ardbog; Wrought Iron Spike@ancien-tursan
+Attuned Two-handed  Wrought Iron Spear,104.0,600.0,496.0,82.7,ancien-tolosa,Cracked Locket@kerys-aven; Spear Shaft@inis_gallia-jura; Wrought Iron Spike@ancien-tursan; Bronze Nails@kerys-aven; Coarse Leather Band@merrie-ardbog; Wrought Iron Bar@inis_gallia-langres
+Sylvan Staff IV,50.45,400.0,349.55,87.4,inis_gallia-vitry,Quicksilver@kerys-aven; Fine Spear Shaft@merrie-shire; Long Fine Wood Stock@kerys-llydaw; Cotton Cord@merrie-nene; Coarse Leather Band@merrie-ardbog; Linseed Oil@kerys-aven
+Warded Staff of Divine II,1431.1,1750.0,318.9,18.2,kerys-tremen,Cracked Ethereal Crystal@inis_gallia-vitry; Locket of the Horizon@kerys-pladenn; Meadowsweet@kerys-pladenn; Spear Shaft@inis_gallia-jura; Iron Bar@inis_gallia-nones; Linen String@inis_gallia-langres; Coarse Leather Band@merrie-ardbog
+Yule Crown of Winter,43.08,350.0,306.92,87.7,ancien-lavedan,Yule Berries@kerys-aven; Yule Wood@ancien-tolosa; Furry Collarstone@ancien-salias; Linen Cloth@inis_gallia-ardennes; Glue@inis_gallia-aras; Coarse Leather String@ancien-volvestre; Sow Thistle Extract@inis_gallia-trecassis
+Attuned Wrought Iron Mace,1241.6,1500.0,258.4,17.2,kerys-tremen,Cracked Sigil@inis_gallia-langres; Mace Grip@inis_gallia-jura; Wrought Iron Ingot@kerys-tremen; Wrought Iron Spike@ancien-tursan; Coarse Leather Band@merrie-ardbog; Iron Nails@merrie-wiht
+Barrel Pieces,23.07,250.0,226.93,90.8,kerys-llydaw,Copper Ingot@merrie-ardbog; Vial@ancien-lavedan; Bronze Sheet@inis_gallia-trecassis
+Attuned Wrought Iron Handspear,104.0,300.0,196.0,65.3,inis_gallia-aras,Cracked Locket@kerys-aven; Spear Shaft@inis_gallia-jura; Wrought Iron Spike@ancien-tursan; Bronze Nails@kerys-aven; Coarse Leather Band@merrie-ardbog; Wrought Iron Bar@inis_gallia-langres
+Yule Goat Mask,610.53,800.0,189.47,23.7,merrie-wiht,Pristine Goat Skull@ancien-tolosa; Medallion of the Lost@inis_gallia-ardennes; Worn Out Locket@kerys-llydaw; Suede Leather@kerys-tremen; Fur Leather@kerys-tremen; Stuffed Linen Padding@merrie-shire; Sow Thistle Extract@inis_gallia-trecassis
+Golden Floral Headband,64.0,250.0,186.0,74.4,ancien-armanhac,Silver Ingot@kerys-tremen; Pearl@kerys-dolavon
+Meirothea’s Yule Flame,18.29,200.0,181.71,90.9,ancien-volvestre,Yule Wood@ancien-tolosa; Yule Berries@kerys-aven; Furry Collarstone@ancien-salias; Sow Thistle Extract@inis_gallia-trecassis; Coarse Wool Cloth@merrie-gael
+Herald's Helm of the Immovable II,352.71,500.0,147.29,29.5,inis_gallia-aras,Worn Out Locket@kerys-llydaw; Blessed Ligarius@inis_gallia-javerdus; Hemlock Sap@inis_gallia-javerdus; Iron Sheet@inis_gallia-langres; Coarse Leather Band@merrie-ardbog; Bronze Buckle@inis_gallia-nones; Iron Studs@ancien-astarac
+Cleric's Alb of Cleansing II,1370.4,1500.0,129.6,8.6,kerys-dolavon,Cracked Ethereal Crystal@inis_gallia-vitry; Seal of the Lost Abbot@kerys-pladenn; Dandelion Extract@kerys-pladenn; Sewing Needles@kerys-dreger; Quilted Wool Padding@inis_gallia-langres; Coarse Leather Band@merrie-ardbog; Horn Buttons@kerys-aven
+Attuned Sylvan Staff II,194.1,300.0,105.9,35.3,kerys-pladenn,Furry Collarstone@ancien-salias; Lily of the Valley Extract@inis_gallia-langres; Spear Shaft@inis_gallia-jura; Iron Bar@inis_gallia-nones; Linen String@inis_gallia-langres; Coarse Leather Band@merrie-ardbog
+Wooden Cabinet,28.88,130.0,101.12,77.8,ancien-lavedan,Fine Wooden Plank@ancien-tursan; Iron Nails@merrie-wiht; Wrought Iron Hinges@kerys-tremen; Coarse Cotton Cloth@inis_gallia-vitry
+Attuned Iron Heater,34.6,100.0,65.4,65.4,kerys-aven,Gadfly Larvae@ancien-lavedan; Plank@inis_gallia-langres; Iron Sheet@inis_gallia-langres; Iron Studs@ancien-astarac; Coarse Leather Band@merrie-ardbog
+Ornamental Iron Chandelier,86.5,150.0,63.5,42.3,kerys-aven,Wrought Iron Sheet@ancien-astarac; Wrought Iron Studs@ancien-lavedan; Beeswax@ancien-tursan; Wrought Iron Bar@inis_gallia-langres
+Triple Candle Stand,17.4,70.0,52.6,75.1,merrie-ardbog,Iron Sheet@inis_gallia-langres; Bronze Studs@kerys-aven; Tallow@merrie-wiht
+Magus' Trousers of Dreambind II,1247.29,1299.0,51.71,4.0,ancien-armanhac,Worn Out Sigil@inis_gallia-langres; Amulet of Veil@kerys-pladenn; Aeonium@ancien-tolosa; Sewing Needles@kerys-dreger; Linen Cloth@inis_gallia-ardennes; Coarse Leather String@ancien-volvestre; Bronze Buckle@inis_gallia-nones; Coarse Leather Band@merrie-ardbog
+Double Wall Candle Sconce,25.2,75.0,49.8,66.4,kerys-aven,Wrought Iron Sheet@ancien-astarac; Iron Studs@ancien-astarac; Tallow@merrie-wiht
+Iron Chandelier,53.5,100.0,46.5,46.5,kerys-aven,Wrought Iron Sheet@ancien-astarac; Wrought Iron Studs@ancien-lavedan; Beeswax@ancien-tursan; Wrought Iron Bar@inis_gallia-langres
+Chevron Shutter,4.54,50.0,45.46,90.9,kerys-retz,Fine Wooden Plank@ancien-tursan; Iron Nails@merrie-wiht; Wrought Iron Hinges@kerys-tremen; Bone Fragments@kerys-aven
+Large Rain Lily Planter,2.16,45.0,42.84,95.2,merrie-shire,Fine Wooden Plank@ancien-tursan; Rain Lily@merrie-ardbog; Iron Nails@merrie-wiht
+Mantle of the Scarlet Bird,85.12,125.0,39.88,31.9,kerys-dreger,Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan; Sewing Needles@kerys-dreger; Aurum Thread@inis_gallia-vitry
+Window Flowerpot,0.28,40.0,39.72,99.3,ancien-tolosa,Plank@inis_gallia-langres; Datura's Seed Pod@ancien-tolosa; Iron Nails@merrie-wiht
+Cloak of the Sunspire,37.12,75.0,37.88,50.5,ancien-tolosa,Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan; Sewing Needles@kerys-dreger; Silver Thread@kerys-bronyr
+Metal Candle Stand,16.6,50.0,33.4,66.8,merrie-ardbog,Iron Sheet@inis_gallia-langres; Bronze Studs@kerys-aven; Tallow@merrie-wiht
+Candles on Dish,17.0,50.0,33.0,66.0,merrie-shire,Iron Sheet@inis_gallia-langres; Bronze Studs@kerys-aven; Tallow@merrie-wiht
+Jewelcrafting Tools,17.54,50.0,32.46,64.9,kerys-dolavon,Amber@inis_gallia-aras; Heavy Top Grain Leather@merrie-nene; Bronze Bar@inis_gallia-aras; Bronze Ingot@ancien-volvestre
+Trinity Diadem,170.0,200.0,30.0,15.0,inis_gallia-langres,Aurum Ingot@merrie-yarborn; Emerald@kerys-tremen
+Founders Mantle,0.59,29.0,28.41,98.0,kerys-bronyr,Sewing Needles@kerys-dreger; Linen String@inis_gallia-langres; Coarse Linen Cloth@ancien-tursan
+Wall Candle Sconce,24.8,50.0,25.2,50.4,kerys-aven,Wrought Iron Sheet@ancien-astarac; Iron Studs@ancien-astarac; Tallow@merrie-wiht
+Little Yule Goat,75.13,100.0,24.87,24.9,inis_gallia-ardennes,Yule Wood@ancien-tolosa; Medallion of the Lost@inis_gallia-ardennes; Straw@kerys-bronyr
+Rain Lily Planter,1.08,25.0,23.92,95.7,merrie-shire,Fine Wooden Plank@ancien-tursan; Rain Lily@merrie-ardbog; Iron Nails@merrie-wiht
+Ambergrasp Extract,50.0,73.5,23.5,32.0,kerys-dolavon,Ambergrasp@merrie-ulaid
+The Golden Hind of Trecassis,6.6,30.0,23.4,78.0,inis_gallia-nones,Linen Cloth@inis_gallia-ardennes; Long Wood Stock@kerys-aven; Linen String@inis_gallia-langres
+Candle on Dish,16.6,40.0,23.4,58.5,merrie-shire,Iron Sheet@inis_gallia-langres; Bronze Studs@kerys-aven; Tallow@merrie-wiht
+Sturdy Reinforced Chest,12.54,35.0,22.46,64.2,kerys-dreger,Plank@inis_gallia-langres; Iron Nails@merrie-wiht; Wrought Iron Hinges@kerys-tremen; Iron Sheet@inis_gallia-langres
+Pilgrim's Pants IV,29.8,50.0,20.2,40.4,kerys-retz,Medium Top Grain Leather@merrie-yarborn; Cotton Cord@merrie-nene; Bronze Studs@kerys-aven; Linseed Oil@kerys-aven; Leather String@kerys-dolavon
+The Spirit of Arduinna,9.85,30.0,20.15,67.2,inis_gallia-nones,Linen Cloth@inis_gallia-ardennes; Long Wood Stock@kerys-aven; Linen String@inis_gallia-langres
+Alchemy Instruments,60.75,80.0,19.25,24.1,inis_gallia-ardennes,Glass@ancien-tolosa; Boiled Leather@kerys-llydaw; Bronze Bar@inis_gallia-aras; Nightshade Fruit@kerys-dreger
+Dark Ceramic Jug,1.48,20.0,18.52,92.6,inis_gallia-langres,Clay@merrie-yarborn; Water@ancien-armanhac; Tallow@merrie-wiht; Charcoal@merrie-shire
+Small Ceramic Jug,1.48,20.0,18.52,92.6,inis_gallia-langres,Clay@merrie-yarborn; Water@ancien-armanhac; Tallow@merrie-wiht; Charcoal@merrie-shire
+Fired Ceramic Jug,1.48,20.0,18.52,92.6,inis_gallia-langres,Clay@merrie-yarborn; Water@ancien-armanhac; Tallow@merrie-wiht; Charcoal@merrie-shire
+Ceramic Jug,1.48,20.0,18.52,92.6,inis_gallia-langres,Clay@merrie-yarborn; Water@ancien-armanhac; Tallow@merrie-wiht; Charcoal@merrie-shire
+Tall Ornamental Iron Chandelier,131.5,150.0,18.5,12.3,inis_gallia-ardennes,Wrought Iron Sheet@ancien-astarac; Wrought Iron Studs@ancien-lavedan; Beeswax@ancien-tursan; Wrought Iron Bar@inis_gallia-langres
+Bronze Amber Ring,2.54,20.0,17.46,87.3,merrie-ardbog,Bronze Ingot@ancien-volvestre; Amber@inis_gallia-aras
+Tempered Iron Pickaxe,83.21,100.0,16.79,16.8,kerys-dolavon,Worn Out Locket@kerys-llydaw; Axe Handle@ancien-tursan; Iron Spike@inis_gallia-nones; Iron Bar@inis_gallia-nones; Coarse Leather Band@merrie-ardbog
+Trickster's Doublet of the Whiplash II,408.21,425.0,16.79,3.9,kerys-llydaw,Worn Out Locket@kerys-llydaw; Seal of Creed@inis_gallia-langres; Obsidian@kerys-vanes; Suede Leather@kerys-tremen; Weapons Belt@kerys-bronyr; Bronze Studs@kerys-aven
+Staff of Zephyr III,34.6,50.0,15.4,30.8,inis_gallia-ardennes,Starwort Extract@inis_gallia-trecassis; Spear Shaft@inis_gallia-jura; Long Fine Wood Stock@kerys-llydaw; Wool Yarn@ancien-tursan; Coarse Leather Band@merrie-ardbog; Linseed Oil@kerys-aven; Bronze Sheet@inis_gallia-trecassis
+Lupus and the White Hart,14.85,30.0,15.15,50.5,inis_gallia-nones,Linen Cloth@inis_gallia-ardennes; Long Wood Stock@kerys-aven; Linen String@inis_gallia-langres
+Carpenter's Tools,6.0,20.0,14.0,70.0,inis_gallia-aras,Wrought Iron Nails@kerys-llydaw; Boiled Leather@kerys-llydaw
+Tall Ceramic Candleholder,1.15,15.0,13.85,92.3,kerys-aven,Clay@merrie-yarborn; Water@ancien-armanhac; Tallow@merrie-wiht; Charcoal@merrie-shire
+Staff of Divine III,37.0,50.0,13.0,26.0,inis_gallia-ardennes,Pasque Flower Extract@merrie-down; Spear Shaft@inis_gallia-jura; Long Fine Wood Stock@kerys-llydaw; Wool Yarn@ancien-tursan; Coarse Leather Band@merrie-ardbog; Linseed Oil@kerys-aven; Bronze Sheet@inis_gallia-trecassis
+Leatherworking Tools,29.2,40.0,10.8,27.0,merrie-yarborn,Long Fine Wood Stock@kerys-llydaw; Iron Knife Blade@merrie-ulaid; Inferior Leather@kerys-tremen; Bronze Bar@inis_gallia-aras
+Chiseled Canonites,90.0,100.0,10.0,10.0,kerys-dolavon,Canonite@kerys-bronyr
+Cotton Wadding,40.0,50.0,10.0,20.0,merrie-down,Coarse Cotton Cloth@inis_gallia-vitry; Cotton Cord@merrie-nene; Horn Needles@kerys-tremen
+Ceramic Candleholder,1.15,10.0,8.85,88.5,kerys-pladenn,Clay@merrie-yarborn; Water@ancien-armanhac; Tallow@merrie-wiht; Charcoal@merrie-shire
+Aurum Ingot,11.8,20.0,8.2,41.0,merrie-yarborn,Aurum Ore@ancien-tursan; Charcoal@merrie-shire
+Brushed Bronze Onyx Ring,2.5,10.0,7.5,75.0,inis_gallia-javerdus,Bronze Ingot@ancien-volvestre; Onyx@kerys-aven
+Tempered Iron Chopping Axe,2.51,10.0,7.49,74.9,ancien-armanhac,Worn Out Locket@kerys-llydaw; Long Wood Stock@kerys-aven; Iron Axe Head@ancien-tursan; Coarse Leather Band@merrie-ardbog
+Slender Bronze Amber Ring,2.54,10.0,7.46,74.6,inis_gallia-javerdus,Bronze Ingot@ancien-volvestre; Amber@inis_gallia-aras
+Small Amber Amulet,4.08,11.0,6.92,62.9,inis_gallia-jura,Bronze Ingot@ancien-volvestre; Amber@inis_gallia-aras
+Stone Window Flowerpot,0.76,7.5,6.74,89.9,merrie-ardbog,Gneiss@inis_gallia-vitry; Periwinkle@kerys-bronyr; Garlic@kerys-pladenn
+Moonveil Shoes,4.82,11.0,6.18,56.2,merrie-shire,Fine Leather@merrie-ardbog; Sewing Needles@kerys-dreger
+Silver Cuff,4.0,10.0,6.0,60.0,kerys-pladenn,Silver Ingot@kerys-tremen
+Fletching Tools,14.85,20.0,5.15,25.8,inis_gallia-aras,Heavy Top Grain Leather@merrie-nene; Iron Knife Blade@merrie-ulaid; Iron Nails@merrie-wiht; Linseed Oil@kerys-aven
+Pilgrim's Gloves IV,10.5,15.0,4.5,30.0,kerys-tremen,Medium Top Grain Leather@merrie-yarborn; Cotton Cord@merrie-nene; Linseed Oil@kerys-aven
+Small Wicker Window Flowerpot,1.08,5.0,3.92,78.4,ancien-armanhac,Sapwood@merrie-gael; Rain Lily@merrie-ardbog; Starwort@kerys-pladenn
+Wicker Window Flowerpot,1.08,5.0,3.92,78.4,ancien-armanhac,Sapwood@merrie-gael; Rain Lily@merrie-ardbog; Starwort@kerys-pladenn
+Gallian Gargoyle,0.12,4.0,3.88,97.0,merrie-bearm,Gneiss@inis_gallia-vitry
+Horn Needles,0.15,4.0,3.85,96.2,kerys-tremen,Antler@merrie-ardbog
+Table Lamp,2.16,6.0,3.84,64.0,inis_gallia-vitry,Bronze Ingot@ancien-volvestre; Tallow@merrie-wiht
+Hunters Chandelier,1.22,5.0,3.78,75.7,merrie-nene,Antler@merrie-ardbog; Copper Ingot@merrie-ardbog; Resin@merrie-yarborn
+Ceramic Bowl,1.68,5.0,3.32,66.4,merrie-ulaid,Clay@merrie-yarborn; Water@ancien-armanhac; Tallow@merrie-wiht; Charcoal@merrie-shire
+Banquet Table,6.7,10.0,3.3,33.0,kerys-tremen,Fine Wooden Plank@ancien-tursan; Wrought Iron Nails@kerys-llydaw; Fine Wood Beam@ancien-tursan
+Spear Shaft,1.7,5.0,3.3,66.0,inis_gallia-jura,Long Wood Stock@kerys-aven; Coarse Leather Band@merrie-ardbog; Bronze Nails@kerys-aven
+Lidded Iron Kettle,36.76,40.0,3.24,8.1,kerys-aven,Wrought Iron Sheet@ancien-astarac; Iron Studs@ancien-astarac; Tallow@merrie-wiht
+Iron Cooking Pot,36.76,40.0,3.24,8.1,kerys-aven,Wrought Iron Sheet@ancien-astarac; Iron Studs@ancien-astarac; Tallow@merrie-wiht
+Founders Emblem,0.22,3.0,2.78,92.8,ancien-astarac,Tin Ingot@merrie-nene; Blizzard Stone@kerys-aven
+Broad Onyx Bronze Ring,2.5,5.0,2.5,50.0,ancien-volvestre,Bronze Ingot@ancien-volvestre; Onyx@kerys-aven
+Pottery Molds,2.54,5.0,2.46,49.2,kerys-dreger,Plank@inis_gallia-langres; Clay@merrie-yarborn; Bronze Nails@kerys-aven
+Large Wooden Barrel,23.7,26.0,2.3,8.8,kerys-pladenn,Plank@inis_gallia-langres; Iron Bar@inis_gallia-nones; Iron Nails@merrie-wiht
+Wrought Iron Cuirass,52.75,55.0,2.25,4.1,kerys-bronyr,Wrought Iron Sheet@ancien-astarac; Iron Hinges@merrie-ulaid; Bronze Studs@kerys-aven
+Construction Hammer,0.04,2.0,1.96,98.0,merrie-shire,Sapwood@merrie-gael; Gneiss@inis_gallia-vitry
+Hunters Table,0.26,2.0,1.74,87.0,merrie-nene,Plank@inis_gallia-langres; Wooden Beam@merrie-ardbog
+Attuned Bronze Broadsword,0.32,2.0,1.68,83.9,merrie-yarborn,Datura's Seed Pod@ancien-tolosa; Bronze Sword Blade@merrie-nene; Sapwood@merrie-gael
+Attuned Sylvan Staff,0.42,2.0,1.58,79.0,ancien-astarac,Bee Balm@inis_gallia-nones; Long Wood Stock@kerys-aven; Bronze Studs@kerys-aven
+Attuned Bronze Greatsword,0.44,2.0,1.56,77.9,inis_gallia-vitry,Dandelion@merrie-ardbog; Bronze Sword Blade@merrie-nene; Sapwood@merrie-gael
+Iron Bar,10.0,11.5,1.5,13.0,inis_gallia-nones,Iron Ingot@merrie-yarborn
+Wyvern Sconce,0.73,2.0,1.27,63.3,ancien-astarac,Copper Ingot@merrie-ardbog
+Wooden Winch,1.8,3.0,1.2,40.0,inis_gallia-ardennes,Sapwood@merrie-gael; Flax Fiber@inis_gallia-morvan
+Wolfsbane Leaf Extract,0.88,2.0,1.12,56.0,merrie-ulaid,Wolfsbane's Leaves@inis_gallia-langres; Charcoal@merrie-shire; Water@ancien-armanhac
+Founders Shoes,0.9,2.0,1.1,55.0,ancien-lavedan,Nubuck Leather@inis_gallia-morvan; Coarse Leather Band@merrie-ardbog
+Hammered Silver Bracelet,4.0,5.0,1.0,20.0,inis_gallia-ardennes,Silver Ingot@kerys-tremen
+Pointy Stick,0.04,1.0,0.96,96.0,kerys-vanes,Sapwood@merrie-gael
+Stone Pickaxe,0.06,1.0,0.94,94.0,kerys-bronyr,Sapwood@merrie-gael; Gneiss@inis_gallia-vitry
+Gneiss Stone Axe,0.06,1.0,0.94,94.0,kerys-dolavon,Sapwood@merrie-gael; Gneiss@inis_gallia-vitry
+Fine Wooden Bowl,0.08,1.0,0.92,92.0,ancien-armanhac,Fine Wooden Plank@ancien-tursan
+Crude Skinning Knife,0.1,1.0,0.9,90.0,merrie-yarborn,Sapwood@merrie-gael; Gneiss@inis_gallia-vitry
+Wooden Shield,0.12,1.0,0.88,88.0,kerys-dreger,Sapwood@merrie-gael
+Founders Chausses,1.14,2.0,0.86,43.0,kerys-retz,Sewing Needles@kerys-dreger; Linen String@inis_gallia-langres; Coarse Linen Cloth@ancien-tursan
+Yule Charm,0.17,1.0,0.83,83.3,merrie-shire,Tin Ingot@merrie-nene
+Simple bronze band,0.17,1.0,0.83,83.3,kerys-dolavon,Tin Ingot@merrie-nene
+Hunters Bench,0.18,1.0,0.82,82.0,ancien-astarac,Plank@inis_gallia-langres; Wooden Beam@merrie-ardbog
+Attuned Two-handed Bronze Spear,2.2,3.0,0.8,26.7,merrie-shire,Tansy Extract@inis_gallia-trecassis; Long Wood Stock@kerys-aven; Bronze Spike@kerys-dreger
+Founders Finery,2.24,3.0,0.76,25.3,kerys-pladenn,Sewing Needles@kerys-dreger; Linen String@inis_gallia-langres; Coarse Linen Cloth@ancien-tursan
+Bronze Greatsword,0.24,1.0,0.76,75.7,merrie-down,Bronze Sword Blade@merrie-nene; Sapwood@merrie-gael
+Bronze Broadsword,0.24,1.0,0.76,75.7,kerys-vanes,Bronze Sword Blade@merrie-nene; Sapwood@merrie-gael
+Blizzard Stone Amulet,0.27,1.0,0.73,73.3,kerys-dreger,Tin Ingot@merrie-nene; Blizzard Stone@kerys-aven
+Ceramic Pot,2.27,3.0,0.73,24.3,merrie-wiht,Clay@merrie-yarborn; Water@ancien-armanhac; Tallow@merrie-wiht; Charcoal@merrie-shire
+Stone Planter,0.32,1.0,0.68,68.0,merrie-ardbog,Gneiss@inis_gallia-vitry; Sage@merrie-ardbog
+Animal Hide,1.0,1.6666666666666667,0.67,40.0,inis_gallia-langres,Large Animal Hide@kerys-aven
+Attuned Staff of Divine,0.34,1.0,0.66,66.0,kerys-dreger,Daisy@inis_gallia-trecassis; Long Wood Stock@kerys-aven; Bronze Studs@kerys-aven
+Staff of Divine,0.34,1.0,0.66,66.0,kerys-aven,Daisy@inis_gallia-trecassis; Long Wood Stock@kerys-aven; Bronze Studs@kerys-aven
+Wooden Window Flowerpot,0.36,1.0,0.64,64.0,merrie-nene,Plank@inis_gallia-langres; Periwinkle@kerys-bronyr; Iron Nails@merrie-wiht
+Slender Bronze Earring,0.37,1.0,0.63,63.3,kerys-dreger,Copper Ingot@merrie-ardbog
+Attuned Staff of Zephyr,0.4,1.0,0.6,60.0,kerys-dreger,Meadowsweet Extract@inis_gallia-trecassis; Long Wood Stock@kerys-aven; Bronze Studs@kerys-aven
+Basic Leatherworking Tools,0.4,1.0,0.6,60.0,kerys-aven,Bone Fragments@kerys-aven; Sapwood@merrie-gael; Flint@ancien-salias
+Sylvan Staff,0.42,1.0,0.58,58.0,merrie-nene,Bee Balm@inis_gallia-nones; Long Wood Stock@kerys-aven; Bronze Studs@kerys-aven
+Wyvern Wind Vane,1.47,2.0,0.53,26.7,inis_gallia-atigny,Copper Ingot@merrie-ardbog
+Pilgrim's Bracers,0.5,1.0,0.5,50.0,kerys-bronyr,Nubuck Leather@inis_gallia-morvan
+Heavy Top Grain Leather,0.5,1.0,0.5,50.0,merrie-nene,Inferior Leather@kerys-tremen
+Pilgrim's Gloves,0.5,1.0,0.5,50.0,kerys-llydaw,Nubuck Leather@inis_gallia-morvan
+Pilgrim's Breeches,0.52,1.0,0.48,48.0,kerys-bronyr,Sewing Needles@kerys-dreger; Coarse Linen Cloth@ancien-tursan
+Weapons Belt,0.54,1.0,0.46,46.0,kerys-bronyr,Rough Leather Straps@inis_gallia-langres; Glue@inis_gallia-aras
+Mace Grip,4.55,5.0,0.45,9.0,inis_gallia-jura,Iron Sheet@inis_gallia-langres; Coarse Leather Band@merrie-ardbog; Bronze Studs@kerys-aven
+Small Topaz Amulet,0.57,1.0,0.43,43.3,kerys-aven,Copper Ingot@merrie-ardbog; Topaz@ancien-volvestre
+Shepherd's Hairband of Quiet Gaze,0.59,1.0,0.41,41.0,merrie-nene,Sewing Needles@kerys-dreger; Coarse Linen Cloth@ancien-tursan; Linen String@inis_gallia-langres
+Medium Top Grain Leather,0.6,0.95,0.35,36.8,merrie-yarborn,Fine Leather@merrie-ardbog
+Stool,0.08,0.4,0.32,80.0,inis_gallia-vitry,Plank@inis_gallia-langres
+Vanguard's Breeches of Holy Strikes,1.7,2.0,0.3,15.0,kerys-bronyr,Nubuck Leather@inis_gallia-morvan; Coarse Leather String@ancien-volvestre
+Wooden Wall Shelf,0.12,0.4,0.28,70.0,inis_gallia-ardennes,Plank@inis_gallia-langres
+Round Flower Pot,0.52,0.8,0.28,35.0,ancien-maremna,Clay@merrie-yarborn; Rain Lily@merrie-ardbog
+Pilgrim's Marchers,0.74,1.0,0.26,26.0,kerys-dreger,Dandelion@merrie-ardbog; Nubuck Leather@inis_gallia-morvan; Coarse Leather String@ancien-volvestre
+Rawhide,0.2,0.45,0.25,55.6,inis_gallia-langres,Rough Animal Hide@kerys-tremen
+Loios' Tears Leaf Extract,1.28,1.5,0.22,14.7,merrie-gael,Loios' Tears Leaves@inis_gallia-trecassis; Charcoal@merrie-shire; Water@ancien-armanhac
+Leather Straps,1.28,1.5,0.22,14.7,inis_gallia-langres,Heavy Top Grain Leather@merrie-nene; Bronze Buckle@inis_gallia-nones; Glue@inis_gallia-aras
+Fine Ceramic Mug,0.79,1.0,0.21,21.0,inis_gallia-nones,Clay@merrie-yarborn; Water@ancien-armanhac; Tallow@merrie-wiht; Charcoal@merrie-shire
+Basic Fletching Tools,0.8,1.0,0.2,20.0,inis_gallia-vitry,Flint@ancien-salias; Sapwood@merrie-gael; Reed@kerys-bronyr
+Iron Chopping Axe,0.8,1.0,0.2,20.0,inis_gallia-langres,Long Wood Stock@kerys-aven; Iron Axe Head@ancien-tursan; Coarse Leather Band@merrie-ardbog
+Round Container,0.2,0.4,0.2,50.0,kerys-retz,Plank@inis_gallia-langres; Coarse Leather String@ancien-volvestre
+Snowveil Boots,4.82,5.0,0.18,3.6,kerys-pladenn,Fine Leather@merrie-ardbog; Sewing Needles@kerys-dreger
+Wash Bowl,0.85,1.0,0.15,14.7,ancien-armanhac,Plank@inis_gallia-langres; Copper Ingot@merrie-ardbog
+Hunter's Hood of the Marked Prey,0.85,1.0,0.15,15.0,merrie-nene,Nubuck Leather@inis_gallia-morvan; Coarse Leather String@ancien-volvestre
+Pilgrim's Helmcap,0.85,1.0,0.15,15.0,merrie-nene,Nubuck Leather@inis_gallia-morvan; Coarse Leather String@ancien-volvestre
+Linseed Oil,0.6,0.75,0.15,20.0,kerys-aven,Flax Seeds@kerys-bronyr; Tallow@merrie-wiht
+Pilgrim's Armbands,0.89,1.0,0.11,11.0,kerys-aven,Sewing Needles@kerys-dreger; Coarse Linen Cloth@ancien-tursan; Linen String@inis_gallia-langres
+Pilgrim's Mitts,0.89,1.0,0.11,11.0,kerys-aven,Sewing Needles@kerys-dreger; Coarse Linen Cloth@ancien-tursan; Linen String@inis_gallia-langres
+Rough Leather Straps,0.4,0.5,0.1,20.0,inis_gallia-langres,Coarse Leather Band@merrie-ardbog; Bronze Buckle@inis_gallia-nones
+Bear Rug,0.1,0.2,0.1,50.0,inis_gallia-langres,Fur Leather@kerys-tremen
+Tiny Stool,0.12,0.2,0.08,40.0,kerys-llydaw,Plank@inis_gallia-langres
+Wooden Stool,0.14,0.2,0.06,30.0,kerys-llydaw,Plank@inis_gallia-langres; Wooden Beam@merrie-ardbog
+Wooden Shelf,0.14,0.2,0.06,30.0,inis_gallia-vitry,Plank@inis_gallia-langres; Wooden Beam@merrie-ardbog
+Small Wooden Window Flowerpot,0.36,0.4,0.04,10.0,inis_gallia-vitry,Plank@inis_gallia-langres; Periwinkle@kerys-bronyr; Iron Nails@merrie-wiht
+Meat Strips,0.01,0.05,0.04,80.0,kerys-dreger,Meat Chunks@ancien-tursan
+Curved Wooden Ladle,0.04,0.05,0.01,20.0,kerys-dreger,Plank@inis_gallia-langres
+Ceramic Mug,0.79,0.8,0.01,1.3,inis_gallia-nones,Clay@merrie-yarborn; Water@ancien-armanhac; Tallow@merrie-wiht; Charcoal@merrie-shire
+Sturdy Ceramic Mug,0.79,0.8,0.01,1.3,inis_gallia-nones,Clay@merrie-yarborn; Water@ancien-armanhac; Tallow@merrie-wiht; Charcoal@merrie-shire
+Wooden Ladle,0.04,0.05,0.01,20.0,kerys-dreger,Plank@inis_gallia-langres
+Grilled Meat Hunks,0.05,0.05,0.0,0.0,kerys-dreger,Meat Chunks@ancien-tursan
+Iron Sheet,4.0,4.0,0.0,0.0,inis_gallia-langres,Iron Ingot@merrie-yarborn
+Fur Leather,0.1,0.1,0.0,0.0,kerys-tremen,Rough Animal Hide@kerys-tremen
+Iron Spike,57.5,57.5,0.0,0.0,inis_gallia-nones,Iron Bar@inis_gallia-nones
+Wrought Iron Sheet,6.0,6.0,0.0,0.0,ancien-astarac,Wrought Iron Ingot@kerys-tremen
+Long Wood Stock,0.1,0.1,0.0,0.0,kerys-aven,Sapwood@merrie-gael
+Sewing Needles,0.04,0.02,-0.02,-100.0,kerys-dreger,Bone Fragments@kerys-aven
+Ornamented Table,0.44,0.4,-0.04,-10.0,kerys-retz,Plank@inis_gallia-langres; Wooden Beam@merrie-ardbog
+Pilgrim's Slippers,1.04,1.0,-0.04,-4.0,kerys-dreger,Dandelion@merrie-ardbog; Sewing Needles@kerys-dreger; Coarse Linen Cloth@ancien-tursan
+Rough Animal Hide,0.15,0.1,-0.05,-50.0,kerys-tremen,Large Rough Animal Hide@ancien-tursan
+Leather Pouch,1.06,1.0,-0.06,-6.0,ancien-volvestre,Inferior Leather@kerys-tremen; Coarse Leather String@ancien-volvestre
+Small Window Flowerpot,0.28,0.2,-0.08,-40.0,ancien-volvestre,Plank@inis_gallia-langres; Datura's Seed Pod@ancien-tolosa; Iron Nails@merrie-wiht
+Wooden Arrow,0.1,0.02,-0.08,-400.0,kerys-pladenn,Sapwood@merrie-gael
+Wooden Table,0.28,0.2,-0.08,-40.0,inis_gallia-vitry,Plank@inis_gallia-langres; Wooden Beam@merrie-ardbog
+Coarsewood Bow,1.1,1.0,-0.1,-10.0,kerys-pladenn,Coarse Bow Stave@kerys-pladenn; Boar Sinew@merrie-gael
+Lard,0.12,0.02,-0.1,-500.0,kerys-dreger,Animal Fat@kerys-dolavon
+Bronze Chopping Axe,1.1,1.0,-0.1,-10.0,kerys-retz,Long Wood Stock@kerys-aven; Bronze Axe Head@merrie-nene
+Fine Coarsewood Bow,1.1,1.0,-0.1,-10.0,kerys-dolavon,Coarse Bow Stave@kerys-pladenn; Boar Sinew@merrie-gael
+Bronze Battleaxe,1.1,1.0,-0.1,-10.0,kerys-vanes,Long Wood Stock@kerys-aven; Bronze Axe Head@merrie-nene
+Suede Leather,0.5,0.4,-0.1,-25.0,kerys-tremen,Inferior Leather@kerys-tremen
+Polished Bronze Chopping Axe,1.1,1.0,-0.1,-10.0,kerys-bronyr,Long Wood Stock@kerys-aven; Bronze Axe Head@merrie-nene
+Langres Links,0.15,0.04,-0.11,-275.0,kerys-retz,Deer Intestines@ancien-tursan; Deer Shank Meat@ancien-tursan; Lard@kerys-dreger
+Crimson Lys Tunic,25.12,25.0,-0.12,-0.5,kerys-bronyr,Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan; Sewing Needles@kerys-dreger; Aurum Thread@inis_gallia-vitry
+Plain Rye Bread,0.17,0.05,-0.12,-240.0,kerys-bronyr,Rye Dough@inis_gallia-vitry; Lard@kerys-dreger
+Pilgrim's Hood,1.14,1.0,-0.14,-14.0,kerys-bronyr,Sewing Needles@kerys-dreger; Coarse Linen Cloth@ancien-tursan; Linen String@inis_gallia-langres
+Simple Bed,2.15,2.0,-0.15,-7.5,merrie-nene,Plank@inis_gallia-langres; Wooden Beam@merrie-ardbog; Straw@kerys-bronyr; Coarse Linen Cloth@ancien-tursan
+Coarse Leather Band,0.25,0.1,-0.15,-150.0,merrie-ardbog,Nubuck Leather@inis_gallia-morvan
+Round Wicker Basket,0.4,0.25,-0.15,-60.0,kerys-dreger,Reed@kerys-bronyr
+Wooden Beam,0.2,0.05,-0.15,-300.0,merrie-ardbog,Sapwood@merrie-gael
+Simple Chest,2.16,2.0,-0.16,-8.0,kerys-bronyr,Plank@inis_gallia-langres; Rough Leather Straps@inis_gallia-langres
+Barley Bread,0.22,0.05,-0.17,-340.0,kerys-bronyr,Barley Dough@kerys-tremen; Lard@kerys-dreger
+Shepherd's Smock of Blooming Fold,1.17,1.0,-0.17,-17.0,kerys-llydaw,Sewing Needles@kerys-dreger; Coarse Linen Cloth@ancien-tursan; Wood Buttons@ancien-tursan
+Lily of the Valley Extract,1.08,0.9,-0.18,-20.0,inis_gallia-langres,Lily of the Valley@kerys-pladenn; Charcoal@merrie-shire; Water@ancien-armanhac
+Plank,0.2,0.02,-0.18,-900.0,inis_gallia-langres,Sapwood@merrie-gael
+Garden Wheelbarrow,2.18,2.0,-0.18,-9.0,kerys-tremen,Plank@inis_gallia-langres; Wooden Beam@merrie-ardbog; Bronze Bar@inis_gallia-aras
+Nubuck Leather,0.45,0.25,-0.2,-80.0,inis_gallia-morvan,Rawhide@inis_gallia-langres
+Long Fine Wood Stock,0.4,0.2,-0.2,-100.0,kerys-llydaw,Heartwood@inis_gallia-langres
+Simple Roast,0.25,0.05,-0.2,-400.0,kerys-dreger,Meat Chunks@ancien-tursan; Tallow@merrie-wiht
+Pilgrim's Bracers II,2.2,2.0,-0.2,-10.0,kerys-dolavon,Suede Leather@kerys-tremen; Rough Leather Straps@inis_gallia-langres; Quilted Linen Padding@inis_gallia-nones
+Bronze Sheet,2.0,1.8,-0.2,-11.1,inis_gallia-trecassis,Bronze Ingot@ancien-volvestre
+Longbow,2.2,2.0,-0.2,-10.0,kerys-aven,Rough Bow Stave@kerys-pladenn; Boar Sinew@merrie-gael; Coarse Leather Band@merrie-ardbog
+Attuned Bronze Battleaxe,1.22,1.0,-0.22,-22.0,merrie-gael,Angelica@inis_gallia-nones; Long Wood Stock@kerys-aven; Bronze Axe Head@merrie-nene
+Charcoal,0.31,0.09,-0.22,-244.4,merrie-shire,Plank@inis_gallia-langres; Charcoal@merrie-shire; Resin@merrie-yarborn
+Coarse Leather String,0.25,0.02,-0.23,-1150.0,ancien-volvestre,Nubuck Leather@inis_gallia-morvan
+Plain Oat Bread,0.28,0.05,-0.23,-460.0,kerys-dreger,Oat Dough@kerys-tremen; Tallow@merrie-wiht
+Clay,0.31,0.05,-0.26,-520.0,merrie-yarborn,Plank@inis_gallia-langres; Charcoal@merrie-shire; Resin@merrie-yarborn
+Bronze Ingot,1.3,1.0,-0.3,-30.0,ancien-volvestre,Tin Ore@kerys-dolavon; Copper Ore@ancien-salias; Sapwood@merrie-gael
+Coarse Bow Stave,0.4,0.1,-0.3,-300.0,kerys-pladenn,Long Wood Stock@kerys-aven; Resin@merrie-yarborn
+Tiny Vial,0.5,0.2,-0.3,-150.0,ancien-astarac,Rough Glass@inis_gallia-langres
+Pilgrim's Tunic,1.34,1.0,-0.34,-34.0,kerys-aven,Plantago@ancien-maremna; Sewing Needles@kerys-dreger; Coarse Linen Cloth@ancien-tursan; Linen String@inis_gallia-langres
+Decorated Chair,0.76,0.4,-0.36,-90.0,kerys-llydaw,Fine Wooden Plank@ancien-tursan; Wrought Iron Nails@kerys-llydaw
+Crown Beard Extract,0.98,0.6,-0.38,-63.3,ancien-astarac,Crown Beard@ancien-lavedan; Charcoal@merrie-shire; Water@ancien-armanhac
+Fatty Boar Sausage,0.45,0.06,-0.39,-650.0,kerys-dolavon,Deer Intestines@ancien-tursan; Boar Shank Meat@merrie-ardbog; Lard@kerys-dreger; Thyme@inis_gallia-nones
+Skullcap Extract,1.93,1.5,-0.43,-28.7,inis_gallia-langres,Skullcap@kerys-tremen; Charcoal@merrie-shire; Water@ancien-armanhac
+Box Chair,0.64,0.2,-0.44,-220.0,kerys-aven,Plank@inis_gallia-langres; Long Wood Stock@kerys-aven
+Weak Mead,0.5,0.05,-0.45,-900.0,inis_gallia-javerdus,Honey@kerys-retz; Weak Mead Base@ancien-volvestre
+Simple Wooden Table,0.72,0.25,-0.47,-188.0,ancien-maremna,Plank@inis_gallia-langres; Long Wood Stock@kerys-aven
+Castor Extract,0.98,0.5,-0.48,-96.0,kerys-pladenn,Castor Plant@ancien-lavedan; Charcoal@merrie-shire; Water@ancien-armanhac
+Lavender Extract,0.98,0.5,-0.48,-96.0,inis_gallia-langres,Lavender@ancien-lavedan; Charcoal@merrie-shire; Water@ancien-armanhac
+Golden Poppy Extract,1.48,1.0,-0.48,-48.0,kerys-aven,Golden Poppy@inis_gallia-javerdus; Charcoal@merrie-shire; Water@ancien-armanhac
+Crane Flower Extract,0.98,0.5,-0.48,-96.0,kerys-pladenn,Crane Flower@ancien-lavedan; Charcoal@merrie-shire; Water@ancien-armanhac
+Tall Ceramic Jug,1.48,1.0,-0.48,-48.0,kerys-pladenn,Clay@merrie-yarborn; Water@ancien-armanhac; Tallow@merrie-wiht; Charcoal@merrie-shire
+Small Ceramic Bowl,0.89,0.4,-0.49,-122.5,inis_gallia-vitry,Clay@merrie-yarborn; Water@ancien-armanhac; Tallow@merrie-wiht; Charcoal@merrie-shire
+Rough Onyx Ring,2.5,2.0,-0.5,-25.0,inis_gallia-vitry,Bronze Ingot@ancien-volvestre; Onyx@kerys-aven
+Lime,0.6,0.1,-0.5,-500.0,inis_gallia-morvan,Limestone@merrie-nene; Sapwood@merrie-gael
+Flinthead Arrow,0.56,0.04,-0.52,-1300.0,kerys-retz,Long Wood Stock@kerys-aven; Flint@ancien-salias
+Leather Handles,0.6,0.08,-0.52,-650.0,ancien-tolosa,Suede Leather@kerys-tremen; Boar Sinew@merrie-gael
+Small Stone Window Flowerpot,0.92,0.4,-0.52,-130.0,merrie-down,Limestone@merrie-nene; Periwinkle@kerys-bronyr; Garlic@kerys-pladenn
+Triple Band Bronze Amber Ring,2.54,2.0,-0.54,-26.9,merrie-ulaid,Bronze Ingot@ancien-volvestre; Amber@inis_gallia-aras
+Small Vial,0.75,0.2,-0.55,-275.0,inis_gallia-aras,Rough Glass@inis_gallia-langres
+Cartwheel Chandelier,1.58,1.0,-0.58,-58.0,ancien-armanhac,Plank@inis_gallia-langres; Copper Ingot@merrie-ardbog; Wooden Beam@merrie-ardbog; Beeswax@ancien-tursan
+Pilgrim's Gauntlets II,3.58,3.0,-0.58,-19.2,merrie-yarborn,Iron Wire@ancien-armanhac; Coarse Linen Cloth@ancien-tursan
+Bronze Tipped Arrow,0.6,0.02,-0.58,-2900.0,merrie-down,Long Wood Stock@kerys-aven; Bronze Arrowhead@kerys-ewyas
+Rough Leather Plate,1.2,0.6,-0.6,-100.0,inis_gallia-aras,Heavy Top Grain Leather@merrie-nene; Glue@inis_gallia-aras
+Pilgrim's Helmcap II,2.6,2.0,-0.6,-30.0,kerys-dolavon,Suede Leather@kerys-tremen; Quilted Linen Padding@inis_gallia-nones; Linen String@inis_gallia-langres
+Wicker Basket,0.8,0.2,-0.6,-300.0,merrie-gael,Reed@kerys-bronyr
+Large Climbing Ivy,1.0,0.4,-0.6,-150.0,merrie-ulaid,Water@ancien-armanhac; White Grapes@ancien-tursan
+Tall Climbing Ivy,1.0,0.4,-0.6,-150.0,merrie-wiht,Water@ancien-armanhac; White Grapes@ancien-tursan
+Arching Ivy,1.0,0.4,-0.6,-150.0,merrie-wiht,Water@ancien-armanhac; White Grapes@ancien-tursan
+Small Climbing Ivy,1.0,0.4,-0.6,-150.0,merrie-ulaid,Water@ancien-armanhac; White Grapes@ancien-tursan
+Climbing Ivy,1.0,0.4,-0.6,-150.0,merrie-wiht,Water@ancien-armanhac; White Grapes@ancien-tursan
+Wolfsbane Seed Extract,0.88,0.25,-0.63,-252.0,inis_gallia-langres,Wolfsbane's Seeds@ancien-armanhac; Charcoal@merrie-shire; Water@ancien-armanhac
+Basic Stew,0.71,0.05,-0.66,-1325.7,kerys-bronyr,Meat Chunks@ancien-tursan; Yellow Onion@inis_gallia-nones; Deer Shank Meat@ancien-tursan; Penny Bun@merrie-down
+Iron Tipped Arrow,0.7,0.04,-0.66,-1650.0,merrie-wiht,Long Wood Stock@kerys-aven; Iron Arrowhead@ancien-astarac
+Dandelion Extract,1.18,0.5,-0.68,-136.0,kerys-pladenn,Dandelion@merrie-ardbog; Charcoal@merrie-shire; Water@ancien-armanhac
+Pilgrim's Pants,1.7,1.0,-0.7,-70.0,merrie-gael,Nubuck Leather@inis_gallia-morvan; Coarse Leather String@ancien-volvestre
+Fine Wood Beam,0.8,0.1,-0.7,-700.0,ancien-tursan,Heartwood@inis_gallia-langres
+Basic Forge Parts,1.7,1.0,-0.7,-70.0,kerys-aven,Long Wood Stock@kerys-aven; Rough Animal Hide@kerys-tremen; Sapwood@merrie-gael; Gneiss@inis_gallia-vitry
+Quilted Linen Padding,1.12,0.4,-0.72,-180.0,inis_gallia-nones,Coarse Linen Cloth@ancien-tursan; Linen String@inis_gallia-langres; Sewing Needles@kerys-dreger
+Soapwort Extract,0.88,0.15,-0.73,-486.7,inis_gallia-langres,Soapwort@inis_gallia-trecassis; Charcoal@merrie-shire; Water@ancien-armanhac
+Plantago Extract,1.18,0.45,-0.73,-162.2,merrie-down,Plantago@ancien-maremna; Charcoal@merrie-shire; Water@ancien-armanhac
+Fly Agaric Extract,0.93,0.2,-0.73,-365.0,ancien-tolosa,Fly Agaric@ancien-volvestre; Charcoal@merrie-shire; Water@ancien-armanhac
+Daisy Extract,0.78,0.05,-0.73,-1460.0,inis_gallia-trecassis,Daisy@inis_gallia-trecassis; Charcoal@merrie-shire; Water@ancien-armanhac
+Sow Thistle Extract,0.78,0.05,-0.73,-1460.0,inis_gallia-trecassis,Sow Thistle@inis_gallia-trecassis; Charcoal@merrie-shire; Water@ancien-armanhac
+High Mallow Extract,1.49,0.75,-0.74,-98.8,inis_gallia-langres,High Mallow@inis_gallia-ardennes; Charcoal@merrie-shire; Water@ancien-armanhac
+Wood Buttons,0.8,0.04,-0.76,-1900.0,ancien-tursan,Sapwood@merrie-gael; Linen String@inis_gallia-langres
+Fine Wooden Plank,0.8,0.04,-0.76,-1900.0,ancien-tursan,Heartwood@inis_gallia-langres
+Blueberry Mead,0.9,0.1,-0.8,-800.0,kerys-bronyr,Honey@kerys-retz; Weak Mead Base@ancien-volvestre; Blueberry@inis_gallia-javerdus
+Blackberry Syrup,0.9,0.1,-0.8,-800.0,ancien-tolosa,Water@ancien-armanhac; Blackberry@inis_gallia-javerdus
+Pilgrim's Vambraces,1.8,1.0,-0.8,-80.0,kerys-aven,Bronze Sheet@inis_gallia-trecassis
+Duskwrap Boots,4.82,4.0,-0.82,-20.5,kerys-bronyr,Fine Leather@merrie-ardbog; Sewing Needles@kerys-dreger
+Blueberry Syrup,0.9,0.08,-0.82,-1025.0,merrie-shire,Water@ancien-armanhac; Blueberry@inis_gallia-javerdus
+Periwinkle Extract,0.88,0.05,-0.83,-1660.0,inis_gallia-trecassis,Periwinkle@kerys-bronyr; Charcoal@merrie-shire; Water@ancien-armanhac
+Datura Leaf Extract,0.88,0.05,-0.83,-1660.0,inis_gallia-trecassis,Datura's Leaves@inis_gallia-trecassis; Charcoal@merrie-shire; Water@ancien-armanhac
+Clan Tabard,1.84,1.0,-0.84,-84.0,merrie-nene,Sewing Needles@kerys-dreger; Coarse Linen Cloth@ancien-tursan
+Barley Water,0.9,0.05,-0.85,-1700.0,inis_gallia-ardennes,Water@ancien-armanhac; Barley Stalks@kerys-bronyr
+Leather Band,0.95,0.1,-0.85,-850.0,kerys-tremen,Medium Top Grain Leather@merrie-yarborn
+Farmhouse Cider,0.91,0.05,-0.86,-1720.0,kerys-bronyr,Blueberry Syrup@merrie-shire; Water@ancien-armanhac; Honey@kerys-retz
+Rounded Shutter,5.86,5.0,-0.86,-17.2,ancien-armanhac,Plank@inis_gallia-langres; Wrought Iron Nails@kerys-llydaw; Iron Hinges@merrie-ulaid
+Founders Coronet,1.87,1.0,-0.87,-86.7,merrie-yarborn,Copper Ingot@merrie-ardbog; Onyx@kerys-aven
+Strawberry Syrup,0.9,0.02,-0.88,-4400.0,inis_gallia-ardennes,Water@ancien-armanhac; Strawberry@inis_gallia-javerdus
+Large Fine Wooden Barrel,40.88,40.0,-0.88,-2.2,kerys-aven,Fine Wooden Plank@ancien-tursan; Iron Nails@merrie-wiht; Wrought Iron Bar@inis_gallia-langres
+Homely Stew,0.99,0.1,-0.89,-892.9,merrie-wiht,Yellow Onion@inis_gallia-nones; Deer Neck Meat@ancien-lavedan; Enoki@ancien-gravas
+Linen String,1.2,0.3,-0.9,-300.0,inis_gallia-langres,Flax Fiber@inis_gallia-morvan
+Raisins,1.0,0.1,-0.9,-900.0,ancien-lavedan,White Grapes@ancien-tursan
+Oat Dough,1.12,0.2,-0.92,-460.0,kerys-tremen,Oat Flour@merrie-ardbog; Yeast@ancien-astarac; Water@ancien-armanhac
+Angelica Extract,0.98,0.05,-0.93,-1860.0,inis_gallia-trecassis,Angelica@inis_gallia-nones; Charcoal@merrie-shire; Water@ancien-armanhac
+Meadowsweet Extract,0.98,0.05,-0.93,-1860.0,inis_gallia-trecassis,Meadowsweet@kerys-pladenn; Charcoal@merrie-shire; Water@ancien-armanhac
+Datura Fruit Extract,0.98,0.05,-0.93,-1860.0,inis_gallia-trecassis,Datura Fruit@inis_gallia-langres; Charcoal@merrie-shire; Water@ancien-armanhac
+Red Poppy Extract,1.18,0.25,-0.93,-372.0,kerys-aven,Red Poppy@kerys-aven; Charcoal@merrie-shire; Water@ancien-armanhac
+Straw,1.0,0.05,-0.95,-1900.0,kerys-bronyr,Flax Fiber@inis_gallia-morvan
+Fine Axe Handle,1.9,0.9375,-0.96,-102.7,inis_gallia-atigny,Long Fine Wood Stock@kerys-llydaw; Leather Band@kerys-tremen; Bronze Nails@kerys-aven
+Raspberry Syrup,1.0,0.02,-0.98,-4900.0,inis_gallia-atigny,Water@ancien-armanhac; Raspberry@inis_gallia-trecassis
+Wrought Iron Axe Head,36.0,35.0,-1.0,-2.9,merrie-ulaid,Wrought Iron Sheet@ancien-astarac; Wrought Iron Ingot@kerys-tremen
+Leather Pads,1.2,0.2,-1.0,-500.0,ancien-lavedan,Heavy Top Grain Leather@merrie-nene; Glue@inis_gallia-aras
+Small Silver Bracelet,3.0,2.0,-1.0,-50.0,kerys-dreger,Wrought Iron Ingot@kerys-tremen
+Slender Silver Bracelet,4.0,3.0,-1.0,-33.3,ancien-lavedan,Silver Ingot@kerys-tremen
+Fine Weapons Belt,2.0,1.0,-1.0,-100.0,kerys-aven,Leather Straps@inis_gallia-langres; Coarse Leather Band@merrie-ardbog
+Silver Bracelet,3.0,2.0,-1.0,-50.0,kerys-dreger,Wrought Iron Ingot@kerys-tremen
+Barley Dough,1.22,0.2,-1.02,-510.0,kerys-tremen,Barley Flour@inis_gallia-langres; Yeast@ancien-astarac; Water@ancien-armanhac
+Basic Cooking Tools,2.04,1.0,-1.04,-104.0,ancien-salias,Bronze Sheet@inis_gallia-trecassis; Long Wood Stock@kerys-aven; Flint@ancien-salias
+Leather String,1.15,0.1,-1.05,-1050.0,kerys-dolavon,Medium Top Grain Leather@merrie-yarborn; Boar Sinew@merrie-gael
+Shire Gold,1.15,0.1,-1.05,-1050.0,kerys-tremen,Blueberry@inis_gallia-javerdus; Water@ancien-armanhac; Honey@kerys-retz
+Hunter's Bow,6.05,5.0,-1.05,-21.0,kerys-pladenn,Bow Stave@kerys-pladenn; Boar Sinew@merrie-gael; Linseed Oil@kerys-aven; Coarse Leather Band@merrie-ardbog
+Bronze Pickaxe,2.1,1.0,-1.1,-110.0,kerys-retz,Bronze Bar@inis_gallia-aras; Sapwood@merrie-gael
+Polished Bronze Pickaxe,2.1,1.0,-1.1,-110.0,kerys-bronyr,Long Wood Stock@kerys-aven; Bronze Bar@inis_gallia-aras
+Two-handed Bronze Spear,2.1,1.0,-1.1,-110.0,inis_gallia-vitry,Long Wood Stock@kerys-aven; Bronze Spike@kerys-dreger
+Polished Bronze Skinning Knife,2.1,1.0,-1.1,-110.0,kerys-llydaw,Bronze Bar@inis_gallia-aras; Sapwood@merrie-gael
+Bronze Skinning Knife,2.1,1.0,-1.1,-110.0,kerys-dreger,Bronze Bar@inis_gallia-aras; Sapwood@merrie-gael
+Autumn Heat,1.15,0.05,-1.1,-2200.0,merrie-nene,Blackberry@inis_gallia-javerdus; Water@ancien-armanhac; Honey@kerys-retz
+Basic Baking Tools,2.1,1.0,-1.1,-110.0,ancien-gravas,Long Wood Stock@kerys-aven; Bronze Sheet@inis_gallia-trecassis; Bronze Nails@kerys-aven
+Bronze Handspear,2.1,1.0,-1.1,-110.0,merrie-nene,Long Wood Stock@kerys-aven; Bronze Spike@kerys-dreger
+Tansy Extract,1.18,0.05,-1.13,-2260.0,inis_gallia-trecassis,Tansy@kerys-aven; Charcoal@merrie-shire; Water@ancien-armanhac
+Alfalfa Extract,1.18,0.05,-1.13,-2260.0,inis_gallia-trecassis,Alfalfa@kerys-pladenn; Charcoal@merrie-shire; Water@ancien-armanhac
+Fine Spear Shaft,1.9,0.75,-1.15,-153.3,merrie-shire,Long Fine Wood Stock@kerys-llydaw; Leather Band@kerys-tremen; Bronze Nails@kerys-aven
+Glue,1.2,0.04,-1.16,-2900.0,inis_gallia-aras,Bone Fragments@kerys-aven; Water@ancien-armanhac
+Small Cider,1.25,0.05,-1.2,-2400.0,kerys-dolavon,Raspberry@inis_gallia-trecassis; Water@ancien-armanhac; Honey@kerys-retz
+Wool Yarn,2.0,0.8,-1.2,-150.0,ancien-tursan,Wool Fiber@merrie-ulaid
+Axe Handle,1.7,0.5,-1.2,-240.0,ancien-tursan,Long Wood Stock@kerys-aven; Coarse Leather Band@merrie-ardbog; Bronze Nails@kerys-aven
+Pilgrim's Gauntlets III,6.22,5.0,-1.22,-24.3,ancien-astarac,Iron Wire@ancien-armanhac; Stuffed Linen Padding@merrie-shire
+Attuned Bronze Handspear,2.22,1.0,-1.22,-122.0,kerys-ewyas,Bee Balm@inis_gallia-nones; Long Wood Stock@kerys-aven; Bronze Spike@kerys-dreger
+Barley and Rye Bread,1.28,0.05,-1.23,-2460.0,ancien-lavedan,Barley Dough@kerys-tremen; Rye Grain@merrie-shire; Tallow@merrie-wiht
+Amber Barley Water,1.3,0.05,-1.25,-2500.0,inis_gallia-javerdus,Water@ancien-armanhac; Barley Stalks@kerys-bronyr; Blueberry@inis_gallia-javerdus
+Pilgrim's Jerkin,2.26,1.0,-1.26,-126.0,kerys-llydaw,Plantago@ancien-maremna; Nubuck Leather@inis_gallia-morvan; Coarse Leather String@ancien-volvestre
+Rye Dough,1.42,0.15,-1.27,-846.7,inis_gallia-vitry,Rye Flour@kerys-aven; Yeast@ancien-astarac; Water@ancien-armanhac
+Rough Bow Stave,1.5,0.2,-1.3,-650.0,kerys-pladenn,Long Wood Stock@kerys-aven; Resin@merrie-yarborn; Beeswax@ancien-tursan
+Basic Tailoring Tools,2.3,1.0,-1.3,-130.0,ancien-armanhac,Bone Fragments@kerys-aven; Flax Fiber@inis_gallia-morvan; Sapwood@merrie-gael
+Bleak Boiled Veggies,1.35,0.05,-1.3,-2591.4,merrie-nene,Yellow Onion@inis_gallia-nones; Mustard@merrie-ulaid; Garlic@kerys-pladenn; Divine Mushroom@inis_gallia-jura
+Death Cap Extract,1.93,0.55,-1.38,-250.9,merrie-ardbog,Deathcap@kerys-tremen; Charcoal@merrie-shire; Water@ancien-armanhac
+Fine Fur,1.67,0.2857142857142857,-1.38,-483.3,kerys-aven,Animal Hide@inis_gallia-langres
+Mountain Roast,1.5,0.1,-1.4,-1400.0,ancien-lavedan,Garlic@kerys-pladenn; Deer Shank Meat@ancien-tursan; Tallow@merrie-wiht
+Small Beer,1.5,0.1,-1.4,-1400.0,kerys-dolavon,Weak Beer Base@ancien-volvestre
+Woodsman Roast,1.5,0.1,-1.4,-1400.0,merrie-wiht,Garlic@kerys-pladenn; Boar Shank Meat@merrie-ardbog; Tallow@merrie-wiht
+Amanita Regalis Extract,1.68,0.25,-1.43,-572.0,kerys-aven,Amanita Regalis@inis_gallia-trecassis; Charcoal@merrie-shire; Water@ancien-armanhac
+Roasted Boar,1.5,0.05,-1.45,-2900.0,inis_gallia-ardennes,Thyme@inis_gallia-nones; Boar Flank Meat@merrie-shire; Tallow@merrie-wiht
+Pilgrim's Helmcap IV,31.45,30.0,-1.45,-4.8,kerys-retz,Medium Top Grain Leather@merrie-yarborn; Wool Felt@kerys-aven; Cotton Cord@merrie-nene; Linseed Oil@kerys-aven
+Springtime Stew,1.58,0.1,-1.48,-1480.0,merrie-down,Red Onion@ancien-tursan; Mustard@merrie-ulaid; Garlic@kerys-pladenn; Penny Bun@merrie-down; Lard@kerys-dreger
+Onyx Bronze Ring,2.5,1.0,-1.5,-150.0,ancien-lavedan,Bronze Ingot@ancien-volvestre; Onyx@kerys-aven
+Pilgrim's Armbands II,2.55,1.0,-1.55,-155.0,merrie-wiht,Sewing Needles@kerys-dreger; Linen Cloth@inis_gallia-ardennes; Linen String@inis_gallia-langres
+Pilgrim's Mitts II,2.55,1.0,-1.55,-155.0,kerys-pladenn,Sewing Needles@kerys-dreger; Linen Cloth@inis_gallia-ardennes; Linen String@inis_gallia-langres
+Weak Healing Potion I,1.65,0.05,-1.6,-3200.0,ancien-maremna,Datura Fruit Extract@inis_gallia-trecassis; Water@ancien-armanhac; Tiny Vial@ancien-astarac
+Small Potion of Spirit I,1.65,0.05,-1.6,-3200.0,merrie-ardbog,Meadowsweet Extract@inis_gallia-trecassis; Water@ancien-armanhac; Tiny Vial@ancien-astarac
+Dandelion Herb Infusion,1.8,0.2,-1.6,-800.0,inis_gallia-javerdus,Water@ancien-armanhac; Dandelion@merrie-ardbog; Rosemary@kerys-pladenn
+Oakshade Shoes,3.62,2.0,-1.62,-81.0,merrie-caster,Rawhide@inis_gallia-langres; Sewing Needles@kerys-dreger
+Stonepath Boots,3.62,2.0,-1.62,-81.0,kerys-dolavon,Rawhide@inis_gallia-langres; Sewing Needles@kerys-dreger
+Shank Stew,1.69,0.05,-1.64,-3285.7,inis_gallia-ardennes,Deer Flank Meat@inis_gallia-atigny; Yellow Onion@inis_gallia-nones; Boar Shank Meat@merrie-ardbog; Black Trumpet@ancien-salias
+Fool's Webcap Extract,1.93,0.25,-1.68,-672.0,kerys-aven,Fools Webcap@kerys-pladenn; Charcoal@merrie-shire; Water@ancien-armanhac
+Aegis Potion I,1.75,0.05,-1.7,-3400.0,ancien-gravas,Soapwort Extract@inis_gallia-langres; Water@ancien-armanhac; Tiny Vial@ancien-astarac
+Fire Resistance I,1.8,0.1,-1.7,-1700.0,ancien-gravas,Sow Thistle Extract@inis_gallia-trecassis; Water@ancien-armanhac; Small Vial@inis_gallia-aras
+Aegis Potion III,1.8,0.1,-1.7,-1700.0,merrie-nene,Alfalfa Extract@inis_gallia-trecassis; Water@ancien-armanhac; Small Vial@inis_gallia-aras
+Lime Mortar,2.1,0.4,-1.7,-425.0,merrie-ulaid,Lime@inis_gallia-morvan; Water@ancien-armanhac; Sand@inis_gallia-ardennes
+Glass,3.7,2.0,-1.7,-85.0,ancien-tolosa,Sand@inis_gallia-ardennes; Charcoal@merrie-shire
+Pilgrim's Gloves II,2.7,1.0,-1.7,-170.0,kerys-bronyr,Suede Leather@kerys-tremen; Linen String@inis_gallia-langres
+Weak Healing Potion II,1.75,0.05,-1.7,-3400.0,kerys-llydaw,Datura Fruit Extract@inis_gallia-trecassis; Water@ancien-armanhac; Tiny Vial@ancien-astarac
+Weak Tonic of Vitality I,1.8,0.1,-1.7,-1700.0,kerys-dolavon,Fly Agaric Extract@ancien-tolosa; Water@ancien-armanhac; Tiny Vial@ancien-astarac
+Rye and Berry Bread,1.77,0.058823529411764705,-1.71,-2909.0,merrie-down,Rye Dough@inis_gallia-vitry; Blueberry@inis_gallia-javerdus; Lard@kerys-dreger
+Horn Buttons,1.75,0.04,-1.71,-4275.0,kerys-aven,Antler@merrie-ardbog; Wool Yarn@ancien-tursan
+Weak Health Tonic I,1.8,0.05,-1.75,-3500.0,merrie-ardbog,Fly Agaric Extract@ancien-tolosa; Water@ancien-armanhac; Tiny Vial@ancien-astarac
+Small Potion of Spirit II,1.8,0.05,-1.75,-3500.0,inis_gallia-langres,Datura Leaf Extract@inis_gallia-trecassis; Water@ancien-armanhac; Small Vial@inis_gallia-aras
+Weak Healing Potion III,1.8,0.05,-1.75,-3500.0,ancien-lavedan,Tansy Extract@inis_gallia-trecassis; Water@ancien-armanhac; Small Vial@inis_gallia-aras
+Small Potion of Spirit III,1.9,0.1,-1.8,-1800.0,merrie-nene,Datura Leaf Extract@inis_gallia-trecassis; Water@ancien-armanhac; Small Vial@inis_gallia-aras
+Bow Stave,2.1,0.3,-1.8,-600.0,kerys-pladenn,Long Fine Wood Stock@kerys-llydaw; Resin@merrie-yarborn; Beeswax@ancien-tursan
+Mushroom and Vegetable Stew,1.87,0.06666666666666667,-1.8,-2698.6,merrie-wiht,Yellow Onion@inis_gallia-nones; Mustard@merrie-ulaid; Garlic@kerys-pladenn; Chanterelle@ancien-armanhac; Lard@kerys-dreger
+Stone Planter with Frieze,2.0,0.2,-1.8,-900.0,kerys-dolavon,Limestone@merrie-nene
+Umberlace Shoes,4.82,3.0,-1.82,-60.7,merrie-ulaid,Fine Leather@merrie-ardbog; Sewing Needles@kerys-dreger
+Weak Health Tonic II,1.9,0.05,-1.85,-3700.0,ancien-tolosa,Fly Agaric Extract@ancien-tolosa; Water@ancien-armanhac; Tiny Vial@ancien-astarac
+Silver Ingot,5.86,4.0,-1.86,-46.6,kerys-tremen,Silver Ore@kerys-llydaw; Charcoal@merrie-shire
+Chamois Sausage,2.0,0.10714285714285714,-1.89,-1766.7,ancien-salias,Deer Intestines@ancien-tursan; Chamois Shank Meat@merrie-shire; Lard@kerys-dreger; Parsley@ancien-tolosa
+Aegis Potion II,2.0,0.1,-1.9,-1900.0,kerys-llydaw,Soapwort Extract@inis_gallia-langres; Water@ancien-armanhac; Small Vial@inis_gallia-aras
+Oat Flour,2.0,0.1,-1.9,-1900.0,merrie-ardbog,Oat Grain@ancien-gravas
+Wrought Iron Tipped Arrow,2.0,0.1,-1.9,-1900.0,kerys-vanes,Long Wood Stock@kerys-aven; Wrought Iron Arrowhead@merrie-down
+Bronze Nails,2.0,0.1,-1.9,-1900.0,kerys-aven,Bronze Bar@inis_gallia-aras
+Sturdy Chair,3.24,1.25,-1.99,-159.2,merrie-ardbog,Fine Wooden Plank@ancien-tursan; Wrought Iron Nails@kerys-llydaw; Fine Wood Beam@ancien-tursan
+Poison Resistance I,2.2,0.2,-2.0,-1000.0,inis_gallia-ardennes,Amanita Regalis Extract@kerys-aven; Water@ancien-armanhac; Small Vial@inis_gallia-aras
+Spiced Grilled Meat Hunks,2.05,0.05,-2.0,-4000.0,ancien-volvestre,Meat Chunks@ancien-tursan; Mustard@merrie-ulaid
+Shiny Silver Bracelet,3.0,1.0,-2.0,-200.0,kerys-dolavon,Wrought Iron Ingot@kerys-tremen
+Simple Silver Bracelet,4.0,2.0,-2.0,-100.0,ancien-lavedan,Silver Ingot@kerys-tremen
+Bronze Spike,4.0,2.0,-2.0,-100.0,kerys-dreger,Bronze Bar@inis_gallia-aras
+Iron Battleaxe,4.0,2.0,-2.0,-100.0,merrie-ardbog,Axe Handle@ancien-tursan; Iron Axe Head@ancien-tursan; Bronze Nails@kerys-aven; Coarse Leather Band@merrie-ardbog
+Bronze Studs,2.0,0.005,-2.0,-39900.0,kerys-aven,Bronze Bar@inis_gallia-aras
+Linen Cloth,3.75,1.75,-2.0,-114.3,inis_gallia-ardennes,Coarse Linen Cloth@ancien-tursan
+Pilgrim's Pants III,22.01,20.0,-2.01,-10.1,kerys-tremen,Boiled Leather@kerys-llydaw; Wool Yarn@ancien-tursan; Bronze Studs@kerys-aven; Linseed Oil@kerys-aven; Coarse Leather String@ancien-volvestre
+Starwort Extract,2.08,0.05,-2.03,-4060.0,inis_gallia-trecassis,Starwort@kerys-pladenn; Charcoal@merrie-shire; Water@ancien-armanhac
+Weak Tonic of Vitality II,2.1,0.05,-2.05,-4100.0,ancien-tolosa,Fly Agaric Extract@ancien-tolosa; Water@ancien-armanhac; Small Vial@inis_gallia-aras
+Bed,3.1,1.0,-2.1,-210.0,ancien-armanhac,Plank@inis_gallia-langres; Wooden Beam@merrie-ardbog; Straw@kerys-bronyr; Coarse Linen Cloth@ancien-tursan
+Shadow Court Gown,13.12,11.0,-2.12,-19.3,ancien-gravas,Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan; Sewing Needles@kerys-dreger; Silver Thread@kerys-bronyr
+Broad Silver Plate,12.12,10.0,-2.12,-21.2,inis_gallia-morvan,Silver Ingot@kerys-tremen; Tallow@merrie-wiht
+Trail Pie,2.2,0.05,-2.15,-4300.0,merrie-nene,Barley Dough@kerys-tremen; Lard@kerys-dreger
+Weak Tonic of Vitality III,2.3,0.1,-2.2,-2200.0,ancien-lavedan,Amanita Regalis Extract@kerys-aven; Water@ancien-armanhac; Small Vial@inis_gallia-aras
+Golden Porridge,2.33,0.1,-2.23,-2225.7,ancien-lavedan,Water@ancien-armanhac; Barley Grain@ancien-maremna; Yellow Onion@inis_gallia-nones; Tallow@merrie-wiht
+Square Shutter,4.78,2.5,-2.28,-91.2,inis_gallia-vitry,Plank@inis_gallia-langres; Iron Nails@merrie-wiht; Iron Hinges@merrie-ulaid
+Narrow Square Shutter,4.78,2.5,-2.28,-91.2,inis_gallia-vitry,Plank@inis_gallia-langres; Iron Nails@merrie-wiht; Iron Hinges@merrie-ulaid
+Fine Venison Sausage,2.6,0.3,-2.3,-766.7,inis_gallia-ardennes,Deer Intestines@ancien-tursan; Deer Round Meat@ancien-astarac; Lard@kerys-dreger; Rosemary@kerys-pladenn
+Rosecourt Bourrelet,5.32,3.0,-2.32,-77.3,ancien-lavedan,Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan; Sewing Needles@kerys-dreger; Garnet@ancien-armanhac
+Elegant Stinkhorn Extract,4.68,2.25,-2.43,-108.0,inis_gallia-langres,Elegant Stinkhorn@kerys-tremen; Charcoal@merrie-shire; Water@ancien-armanhac
+Rough Glass,2.6,0.05,-2.55,-5100.0,inis_gallia-langres,Sand@inis_gallia-ardennes; Charcoal@merrie-shire
+Cold Resistance I,2.8,0.2,-2.6,-1300.0,ancien-tolosa,Crane Flower Extract@kerys-pladenn; Water@ancien-armanhac; Small Vial@inis_gallia-aras
+Pilgrim's Helmet,3.6,1.0,-2.6,-260.0,kerys-retz,Bronze Sheet@inis_gallia-trecassis
+Weak Health Tonic III,2.7,0.1,-2.6,-2600.0,ancien-lavedan,Lavender Extract@inis_gallia-langres; Water@ancien-armanhac; Small Vial@inis_gallia-aras
+Aegis Potion IV,2.7,0.1,-2.6,-2600.0,ancien-gravas,Castor Extract@kerys-pladenn; Water@ancien-armanhac; Small Vial@inis_gallia-aras
+Decorated Chest,24.62,22.0,-2.62,-11.9,kerys-vanes,Fine Wooden Plank@ancien-tursan; Iron Nails@merrie-wiht; Wrought Iron Hinges@kerys-tremen; Coarse Cotton Cloth@inis_gallia-vitry
+Sanguine Shoes,3.62,1.0,-2.62,-262.0,kerys-pladenn,Rawhide@inis_gallia-langres; Sewing Needles@kerys-dreger
+Stormveil Boots,3.62,1.0,-2.62,-262.0,kerys-bronyr,Rawhide@inis_gallia-langres; Sewing Needles@kerys-dreger
+Aegis Potion V,2.8,0.06666666666666667,-2.73,-4100.0,merrie-nene,Castor Extract@kerys-pladenn; Water@ancien-armanhac; Small Vial@inis_gallia-aras
+Wrought Iron Lames,52.75,50.0,-2.75,-5.5,kerys-bronyr,Wrought Iron Sheet@ancien-astarac; Iron Hinges@merrie-ulaid; Bronze Studs@kerys-aven
+Rosemary Tea,3.0,0.25,-2.75,-1100.0,inis_gallia-ardennes,Water@ancien-armanhac; Rosemary@kerys-pladenn; Red Poppy@kerys-aven
+Coarse Linen Cloth,3.0,0.25,-2.75,-1100.0,ancien-tursan,Linen String@inis_gallia-langres
+Minor Healing Potion I,3.0,0.25,-2.75,-1100.0,merrie-wiht,Crown Beard Extract@ancien-astarac; Water@ancien-armanhac; Small Vial@inis_gallia-aras
+Farmhouse Roast,3.0,0.2,-2.8,-1400.0,inis_gallia-ardennes,Parsley@ancien-tolosa; Deer Rump Meat@merrie-shire; Tallow@merrie-wiht
+Pilgrim's Sabatons,3.8,1.0,-2.8,-280.0,kerys-vanes,Dandelion@merrie-ardbog; Bronze Sheet@inis_gallia-trecassis
+Minor Health Tonic I,2.9,0.05,-2.85,-5700.0,inis_gallia-javerdus,Death Cap Extract@merrie-ardbog; Water@ancien-armanhac; Small Vial@inis_gallia-aras
+Onyx Diadem,4.87,2.0,-2.87,-143.3,inis_gallia-atigny,Copper Ingot@merrie-ardbog; Onyx@kerys-aven
+Bronze Bar,5.0,2.0,-3.0,-150.0,inis_gallia-aras,Bronze Ingot@ancien-volvestre
+Cotton Cord,4.0,1.0,-3.0,-300.0,merrie-nene,Cotton Fiber@ancien-maremna
+Elderberry Syrup,3.48,0.4,-3.08,-769.0,ancien-gravas,Water@ancien-armanhac; Elderberry@inis_gallia-ardennes
+Amber Adorned Amulet,4.08,1.0,-3.08,-307.7,kerys-dreger,Bronze Ingot@ancien-volvestre; Amber@inis_gallia-aras
+Sunbright Tunic,13.12,10.0,-3.12,-31.2,merrie-ardbog,Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan; Sewing Needles@kerys-dreger; Silver Thread@kerys-bronyr
+Verdant Court Gown,13.12,10.0,-3.12,-31.2,merrie-caster,Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan; Sewing Needles@kerys-dreger; Silver Thread@kerys-bronyr
+Hearth Tunic,5.12,2.0,-3.12,-156.0,inis_gallia-langres,Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan; Sewing Needles@kerys-dreger
+Duskleaf Tunic,13.12,10.0,-3.12,-31.2,merrie-caster,Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan; Sewing Needles@kerys-dreger; Silver Thread@kerys-bronyr
+Stonepath Hose,5.12,2.0,-3.12,-156.0,merrie-shire,Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan; Sewing Needles@kerys-dreger
+Basic Armorer Tools,5.2,2.0,-3.2,-160.0,ancien-lavedan,Bronze Ingot@ancien-volvestre; Long Wood Stock@kerys-aven
+Plain Ale,3.4,0.1,-3.3,-3300.0,kerys-dolavon,Weak Ale Base@kerys-aven; Yeast@ancien-astarac; Water@ancien-armanhac
+Brazier,13.35,10.0,-3.35,-33.5,merrie-bearm,Long Wood Stock@kerys-aven; Clay@merrie-yarborn; Charcoal@merrie-shire; Wrought Iron Sheet@ancien-astarac
+Clay Shingles,3.5,0.1,-3.4,-3400.0,merrie-nene,Clay@merrie-yarborn; Charcoal@merrie-shire
+Small Wooden Barrel,4.08,0.6666666666666666,-3.41,-512.0,ancien-lavedan,Plank@inis_gallia-langres; Bronze Bar@inis_gallia-aras; Bronze Nails@kerys-aven
+Roasted Cabbage Stew,3.66,0.25,-3.41,-1362.3,ancien-salias,Yellow Onion@inis_gallia-nones; Mustard@merrie-ulaid; Dapperling@merrie-gael; Red Cabbage@inis_gallia-javerdus; Lard@kerys-dreger
+Silver Serving Plate,4.04,0.5,-3.54,-708.0,kerys-dolavon,Silver Ingot@kerys-tremen; Tallow@merrie-wiht
+Pilgrim's Bracers III,7.55,4.0,-3.55,-88.8,ancien-lavedan,Boiled Leather@kerys-llydaw; Leather Straps@inis_gallia-langres; Leather Pads@ancien-lavedan; Stuffed Linen Padding@merrie-shire; Linseed Oil@kerys-aven
+Pilgrim's Breeches II,5.69,2.0,-3.69,-184.5,ancien-gravas,Sewing Needles@kerys-dreger; Linen Cloth@inis_gallia-ardennes; Coarse Leather String@ancien-volvestre; Bronze Buckle@inis_gallia-nones; Coarse Leather Band@merrie-ardbog
+Simple Wooden Door,4.78,1.0,-3.78,-378.0,kerys-aven,Plank@inis_gallia-langres; Iron Nails@merrie-wiht; Iron Hinges@merrie-ulaid
+Golden Barley Water,3.88,0.05,-3.83,-7652.4,inis_gallia-javerdus,Water@ancien-armanhac; Barley Stalks@kerys-bronyr; Elderberry@inis_gallia-ardennes
+Onyx Headband,4.87,1.0,-3.87,-386.7,inis_gallia-vitry,Copper Ingot@merrie-ardbog; Onyx@kerys-aven
+Summer heat,4.29,0.4,-3.89,-972.5,ancien-tursan,Red Apple@merrie-ulaid; Water@ancien-armanhac; Honey@kerys-retz; Raspberry Syrup@inis_gallia-atigny
+Iron Wire,4.0,0.07692307692307693,-3.92,-5100.0,ancien-armanhac,Iron Ingot@merrie-yarborn
+Rosy Oat Bread,4.28,0.25,-4.03,-1612.0,kerys-vanes,Oat Dough@kerys-tremen; Rosehip@inis_gallia-javerdus; Tallow@merrie-wiht
+Fire Resistance II,5.58,1.5,-4.08,-272.2,kerys-tremen,Pasque Flower Extract@merrie-down; Water@ancien-armanhac; Vial@ancien-lavedan
+Meadow Dress,5.12,1.0,-4.12,-412.0,merrie-yarborn,Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan; Sewing Needles@kerys-dreger
+Traveler’s Mantle,5.12,1.0,-4.12,-412.0,merrie-ardbog,Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan; Sewing Needles@kerys-dreger
+Aegis Potion VI,4.28,0.15,-4.13,-2755.6,inis_gallia-aras,Starwort Extract@inis_gallia-trecassis; Water@ancien-armanhac; Vial@ancien-lavedan
+Aegis Potion VII,4.38,0.25,-4.13,-1653.3,ancien-lavedan,Starwort Extract@inis_gallia-trecassis; Water@ancien-armanhac; Vial@ancien-lavedan
+Aegis Potion VIII,4.38,0.25,-4.13,-1653.3,inis_gallia-ardennes,Starwort Extract@inis_gallia-trecassis; Water@ancien-armanhac; Vial@ancien-lavedan
+Leatherworker Sign,24.17,20.0,-4.17,-20.9,inis_gallia-aras,Wrought Iron Sheet@ancien-astarac; Iron Nails@merrie-wiht; Wooden Beam@merrie-ardbog
+Alchemist Sign,24.17,20.0,-4.17,-20.9,ancien-lavedan,Wrought Iron Sheet@ancien-astarac; Iron Nails@merrie-wiht; Wooden Beam@merrie-ardbog
+Carpentry Sign,24.17,20.0,-4.17,-20.9,inis_gallia-aras,Wrought Iron Sheet@ancien-astarac; Iron Nails@merrie-wiht; Wooden Beam@merrie-ardbog
+Blacksmith Sign,24.17,20.0,-4.17,-20.9,inis_gallia-aras,Wrought Iron Sheet@ancien-astarac; Iron Nails@merrie-wiht; Wooden Beam@merrie-ardbog
+Tailor Sign,24.17,20.0,-4.17,-20.9,inis_gallia-aras,Wrought Iron Sheet@ancien-astarac; Iron Nails@merrie-wiht; Wooden Beam@merrie-ardbog
+Pilgrim's Hood II,5.2,1.0,-4.2,-420.0,inis_gallia-trecassis,Sewing Needles@kerys-dreger; Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan
+Basic Weaponsmithing Tools,5.2,1.0,-4.2,-420.0,inis_gallia-langres,Bronze Ingot@ancien-volvestre; Long Wood Stock@kerys-aven
+Minor Healing Potion III,4.98,0.75,-4.23,-564.4,merrie-ulaid,Fool's Webcap Extract@kerys-aven; Water@ancien-armanhac; Vial@ancien-lavedan
+Poison Resistance II,4.98,0.5,-4.48,-896.7,inis_gallia-ardennes,Red Poppy Extract@kerys-aven; Water@ancien-armanhac; Vial@ancien-lavedan
+Griffin Chest,24.62,20.0,-4.62,-23.1,ancien-volvestre,Fine Wooden Plank@ancien-tursan; Iron Nails@merrie-wiht; Wrought Iron Hinges@kerys-tremen; Coarse Cotton Cloth@inis_gallia-vitry
+Silver Tipped Arrow,5.0,0.32,-4.68,-1462.5,kerys-pladenn,Long Wood Stock@kerys-aven; Silver Arrowhead@inis_gallia-langres
+Bladder Campion Extract,5.68,1.0,-4.68,-468.0,merrie-shire,Bladder Campion@merrie-shire; Charcoal@merrie-shire; Water@ancien-armanhac
+Pilgrim's Helmcap III,9.7,5.0,-4.7,-94.0,merrie-wiht,Boiled Leather@kerys-llydaw; Stuffed Linen Padding@merrie-shire; Wool Yarn@ancien-tursan; Linseed Oil@kerys-aven
+Pasque Flower Extract,5.18,0.45,-4.73,-1051.1,merrie-down,Pasque Flower@inis_gallia-langres; Charcoal@merrie-shire; Water@ancien-armanhac
+Vegetable Stew,4.83,0.1,-4.73,-4730.0,inis_gallia-jura,Red Onion@ancien-tursan; Mustard@merrie-ulaid; Garlic@kerys-pladenn; Enoki@ancien-gravas; Lard@kerys-dreger
+Minor Tonic of Vitality II,4.98,0.25,-4.73,-1893.3,inis_gallia-ardennes,Red Poppy Extract@kerys-aven; Water@ancien-armanhac; Vial@ancien-lavedan
+Harvest Gold Ale,4.85,0.1,-4.75,-4750.0,kerys-retz,Weak Ale Base@kerys-aven; Yeast@ancien-astarac; Water@ancien-armanhac; Honey@kerys-retz
+Bronze Sword Blade,5.0,0.14285714285714285,-4.86,-3400.0,merrie-nene,Bronze Ingot@ancien-volvestre
+Bronze Arrowhead,5.0,0.02,-4.98,-24900.0,kerys-ewyas,Bronze Ingot@ancien-volvestre
+Wrought Iron Bar,15.0,10.0,-5.0,-50.0,inis_gallia-langres,Wrought Iron Ingot@kerys-tremen
+Basic Alchemy Instruments,6.08,1.0,-5.08,-508.3,merrie-yarborn,Copper Ingot@merrie-ardbog; Bronze Bar@inis_gallia-aras; Rough Glass@inis_gallia-langres
+Brick,5.6,0.5,-5.1,-1020.0,merrie-bearm,Clay@merrie-yarborn; Charcoal@merrie-shire
+Quilted Wool Padding,7.1,2.0,-5.1,-255.0,inis_gallia-langres,Coarse Wool Cloth@merrie-gael; Linen String@inis_gallia-langres; Sewing Needles@kerys-dreger
+Large Stone Planter,10.12,5.0,-5.12,-102.4,kerys-retz,Gneiss@inis_gallia-vitry; Batflower@inis_gallia-langres
+Crimson Court Gown,25.12,20.0,-5.12,-25.6,ancien-lavedan,Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan; Sewing Needles@kerys-dreger; Aurum Thread@inis_gallia-vitry
+Corded Linen Padding,17.9,12.5,-5.4,-43.2,ancien-lavedan,Fine Linen Cloth@inis_gallia-nones; Linen String@inis_gallia-langres; Glue@inis_gallia-aras
+Attuned Bronze Heater,7.45,2.0,-5.45,-272.5,ancien-tolosa,Citrine@ancien-gravas; Plank@inis_gallia-langres; Bronze Sheet@inis_gallia-trecassis
+Pilgrim's Pants II,6.46,1.0,-5.46,-546.0,ancien-tursan,Suede Leather@kerys-tremen; Linen String@inis_gallia-langres; Bronze Studs@kerys-aven; Coarse Leather String@ancien-volvestre
+Tin Ingot,5.7,0.16666666666666666,-5.53,-3320.0,merrie-nene,Tin Ore@kerys-dolavon; Charcoal@merrie-shire
+Minor Health Tonic II,5.88,0.25,-5.63,-2253.3,kerys-tremen,Death Cap Extract@merrie-ardbog; Water@ancien-armanhac; Vial@ancien-lavedan
+Minor Healing Potion II,6.03,0.4,-5.63,-1408.3,ancien-armanhac,Crown Beard Extract@ancien-astarac; Water@ancien-armanhac; Vial@ancien-lavedan
+Silver Buttons,6.0,0.3,-5.7,-1900.0,ancien-lavedan,Silver Ingot@kerys-tremen; Cotton Cord@merrie-nene
+Barley Flour,6.0,0.15,-5.85,-3900.0,inis_gallia-langres,Barley Grain@ancien-maremna
+Kerys Cider,6.95,1.0,-5.95,-595.0,inis_gallia-javerdus,Red Apple@merrie-ulaid; Water@ancien-armanhac; Honey@kerys-retz; Red Currant Syrup@kerys-bronyr
+Pure Glass,6.6,0.5,-6.1,-1220.0,ancien-tolosa,Sand@inis_gallia-ardennes; Charcoal@merrie-shire
+Basic Jewelcrafting Tools,11.13,5.0,-6.13,-122.7,inis_gallia-langres,Copper Ingot@merrie-ardbog; Rawhide@inis_gallia-langres; Iron Knife Blade@merrie-ulaid; Rough Glass@inis_gallia-langres
+Potion of Spirit I,6.38,0.2,-6.18,-3091.7,inis_gallia-javerdus,High Mallow Extract@inis_gallia-langres; Water@ancien-armanhac; Vial@ancien-lavedan
+Bronze Heater,7.4,1.0,-6.4,-640.0,inis_gallia-atigny,Plank@inis_gallia-langres; Bronze Sheet@inis_gallia-trecassis
+Minor Tonic of Vitality I,7.13,0.55,-6.58,-1197.0,merrie-yarborn,Golden Poppy Extract@kerys-aven; Water@ancien-armanhac; Vial@ancien-lavedan
+Yeast,7.0,0.42,-6.58,-1566.7,ancien-astarac,Water@ancien-armanhac; Rye Flour@kerys-aven
+Dressed up Porridge,7.84,1.25,-6.59,-527.2,kerys-dolavon,Water@ancien-armanhac; Barley Grain@ancien-maremna; Boar Rump Meat@merrie-shire; Oyster Mushroom@ancien-astarac; Tallow@merrie-wiht
+Fennel Tea,7.0,0.1,-6.9,-6900.0,inis_gallia-ardennes,Water@ancien-armanhac; Fennel@kerys-aven; Pasque Flower@inis_gallia-langres
+Steady Mind I,7.13,0.2,-6.93,-3466.7,inis_gallia-javerdus,Golden Poppy Extract@kerys-aven; Water@ancien-armanhac; Vial@ancien-lavedan
+Deadly Nightshade Fruit Extract,9.43,2.5,-6.93,-277.2,ancien-astarac,Nightshade Fruit@kerys-dreger; Charcoal@merrie-shire; Water@ancien-armanhac
+Stuffed Linen Padding,8.6,1.6,-7.0,-437.5,merrie-shire,Linen Cloth@inis_gallia-ardennes; Linen String@inis_gallia-langres; Sewing Needles@kerys-dreger
+Wooden Barrel,8.12,1.0,-7.12,-712.0,ancien-lavedan,Plank@inis_gallia-langres; Bronze Bar@inis_gallia-aras; Bronze Nails@kerys-aven
+Inferior Leather,7.75,0.5,-7.25,-1450.0,kerys-tremen,Rawhide@inis_gallia-langres; Lime@inis_gallia-morvan; Water@ancien-armanhac
+Red Currant Syrup,8.0,0.6,-7.4,-1233.3,kerys-bronyr,Water@ancien-armanhac; Red Currant@inis_gallia-langres
+Boiled Leather,8.5,1.0,-7.5,-750.0,kerys-llydaw,Inferior Leather@kerys-tremen; Lime@inis_gallia-morvan; Water@ancien-armanhac
+Silver Plate,8.08,0.5,-7.58,-1516.0,ancien-tolosa,Silver Ingot@kerys-tremen; Tallow@merrie-wiht
+Minor Health Tonic III,8.73,1.0,-7.73,-773.3,ancien-volvestre,Skullcap Extract@inis_gallia-langres; Water@ancien-armanhac; Vial@ancien-lavedan
+Pilgrim's Gloves III,8.75,1.0,-7.75,-775.0,merrie-down,Boiled Leather@kerys-llydaw; Wool Yarn@ancien-tursan; Linseed Oil@kerys-aven
+Dark Hide Rug,10.0,2.0,-8.0,-400.0,ancien-armanhac,Large Animal Hide@kerys-aven
+Pilgrim's Legguards,9.0,1.0,-8.0,-800.0,merrie-shire,Bronze Sheet@inis_gallia-trecassis
+Pilgrim's Hood IV,67.0,59.0,-8.0,-13.6,kerys-bronyr,Horn Needles@kerys-tremen; Fine Wool Cloth@kerys-tremen; Cotton Cord@merrie-nene
+Warrior's Cuirass of Windlash,9.0,1.0,-8.0,-800.0,kerys-dreger,Bronze Sheet@inis_gallia-trecassis
+Pilgrim's Breastplate,9.2,1.0,-8.2,-820.0,kerys-ewyas,Plantago@ancien-maremna; Bronze Sheet@inis_gallia-trecassis
+Vanguard's Cap of Revocation II,10.31,2.0,-8.31,-415.7,kerys-bronyr,Worn Out Locket@kerys-llydaw; Sigil of Carelena@kerys-aven; Topaz@ancien-volvestre; Suede Leather@kerys-tremen; Quilted Linen Padding@inis_gallia-nones; Linen String@inis_gallia-langres
+Bronze Buckle,9.0,0.2,-8.8,-4400.0,inis_gallia-nones,Bronze Sheet@inis_gallia-trecassis
+Pilgrim's Gauntlets,10.0,1.0,-9.0,-900.0,merrie-down,Bronze Ingot@ancien-volvestre
+Copper Ingot,9.7,0.36666666666666664,-9.33,-2545.5,merrie-ardbog,Copper Ore@ancien-salias; Charcoal@merrie-shire
+Chamois Steak,9.7,0.25,-9.45,-3780.0,inis_gallia-ardennes,Rosemary@kerys-pladenn; Chamois Round Meat@ancien-lavedan; Tallow@merrie-wiht
+Rye Flour,10.0,0.25,-9.75,-3900.0,kerys-aven,Rye Grain@merrie-shire
+Butcher's Tools,30.84,21.0,-9.84,-46.9,inis_gallia-morvan,Linen Cloth@inis_gallia-ardennes; Iron Knife Blade@merrie-ulaid; Long Wood Stock@kerys-aven; Fine Wooden Plank@ancien-tursan
+Wrought Iron Nails,10.0,0.1,-9.9,-9900.0,kerys-llydaw,Wrought Iron Bar@inis_gallia-langres
+Iron Arrowhead,10.0,0.04,-9.96,-24900.0,ancien-astarac,Iron Ingot@merrie-yarborn
+Wrought Iron Studs,10.0,0.025,-9.98,-39900.0,ancien-lavedan,Wrought Iron Bar@inis_gallia-langres
+Bronze Axe Head,11.0,1.0,-10.0,-1000.0,merrie-nene,Bronze Sheet@inis_gallia-trecassis; Bronze Ingot@ancien-volvestre
+Bronze Knot Circlet,12.02,2.0,-10.02,-501.0,kerys-dolavon,Bronze Ingot@ancien-volvestre; Sewing Needles@kerys-dreger
+Oakwarden’s Tiara,12.02,2.0,-10.02,-501.0,kerys-dolavon,Bronze Ingot@ancien-volvestre; Sewing Needles@kerys-dreger
+Attuned Bronze Greatmaul,12.04,2.0,-10.04,-502.0,kerys-aven,Daisy@inis_gallia-trecassis; Long Wood Stock@kerys-aven; Bronze Ingot@ancien-volvestre; Bronze Sheet@inis_gallia-trecassis
+Potion of Spirit II,10.23,0.1,-10.13,-10133.3,kerys-bronyr,Wolfsbane Leaf Extract@merrie-ulaid; Water@ancien-armanhac; Vial@ancien-lavedan
+Wrought Iron Hinges,12.5,2.0,-10.5,-525.0,kerys-tremen,Wrought Iron Sheet@ancien-astarac; Iron Nails@merrie-wiht
+Fine Wooden Tankard,11.58,1.0,-10.58,-1058.0,ancien-armanhac,Fine Wooden Plank@ancien-tursan; Iron Bar@inis_gallia-nones
+Iron Hinges,13.0,2.25,-10.75,-477.8,merrie-ulaid,Iron Sheet@inis_gallia-langres; Bronze Nails@kerys-aven
+Bronze Greatmaul,12.0,1.0,-11.0,-1100.0,merrie-yarborn,Long Wood Stock@kerys-aven; Bronze Ingot@ancien-volvestre; Bronze Sheet@inis_gallia-trecassis
+Furnace Parts,61.0,50.0,-11.0,-22.0,kerys-tremen,Brick@merrie-bearm; Boiled Leather@kerys-llydaw; Charcoal@merrie-shire
+Bronze Mace,12.0,1.0,-11.0,-1100.0,merrie-bearm,Long Wood Stock@kerys-aven; Bronze Ingot@ancien-volvestre; Bronze Sheet@inis_gallia-trecassis
+Attuned Bronze Mace,12.1,1.0,-11.1,-1110.0,ancien-gravas,Meadowsweet Extract@inis_gallia-trecassis; Long Wood Stock@kerys-aven; Bronze Ingot@ancien-volvestre; Bronze Sheet@inis_gallia-trecassis
+Roselace Hose,21.12,10.0,-11.12,-111.2,merrie-caster,Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan; Sewing Needles@kerys-dreger; Silver Thread@kerys-bronyr
+Iron Nails,11.5,0.01,-11.49,-114900.0,merrie-wiht,Iron Bar@inis_gallia-nones
+Iron Studs,11.5,0.01,-11.49,-114900.0,ancien-astarac,Iron Bar@inis_gallia-nones
+Wheat Flour,12.0,0.5,-11.5,-2300.0,merrie-nene,Wheat Grain@inis_gallia-langres
+Wrought Iron Mace,41.6,30.0,-11.6,-38.7,inis_gallia-ardennes,Mace Grip@inis_gallia-jura; Wrought Iron Ingot@kerys-tremen; Wrought Iron Spike@ancien-tursan; Coarse Leather Band@merrie-ardbog; Iron Nails@merrie-wiht
+Iron Pot with Lid,36.76,25.0,-11.76,-47.0,inis_gallia-ardennes,Wrought Iron Sheet@ancien-astarac; Iron Studs@ancien-astarac; Tallow@merrie-wiht
+Wool Felt,32.0,20.0,-12.0,-60.0,kerys-aven,Wool Cloth@kerys-tremen; Wool Yarn@ancien-tursan; Horn Needles@kerys-tremen
+Fruity Rye Bread,12.07,0.05,-12.02,-24049.5,merrie-down,Rye Dough@inis_gallia-vitry; Elderberry@inis_gallia-ardennes; Lard@kerys-dreger
+Fatty Boar Stew,12.84,0.75,-12.09,-1612.4,inis_gallia-nones,Meat Strips@kerys-dreger; Yellow Onion@inis_gallia-nones; Boar Round Meat@merrie-shire; Bay Bolete@ancien-armanhac
+Iron Skinning Knife,13.3,1.0,-12.3,-1230.0,kerys-aven,Iron Knife Blade@merrie-ulaid; Long Wood Stock@kerys-aven; Iron Sheet@inis_gallia-langres; Coarse Leather Band@merrie-ardbog
+Midnight Rose Mantle,37.12,24.0,-13.12,-54.7,kerys-bronyr,Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan; Sewing Needles@kerys-dreger; Silver Thread@kerys-bronyr
+Ironside's Greaves of Vital Pulse,15.0,1.0,-14.0,-1400.0,inis_gallia-langres,Bronze Ingot@ancien-volvestre
+Iron Knife Blade,23.0,9.0,-14.0,-155.6,merrie-ulaid,Iron Bar@inis_gallia-nones
+Brewery Sign,24.17,10.0,-14.17,-141.7,ancien-lavedan,Wrought Iron Sheet@ancien-astarac; Iron Nails@merrie-wiht; Wooden Beam@merrie-ardbog
+Tanned Hide Rug,16.67,2.0,-14.67,-733.3,ancien-armanhac,Animal Hide@inis_gallia-langres
+Wrought Iron Arrowhead,15.0,0.3,-14.7,-4900.0,merrie-down,Wrought Iron Ingot@kerys-tremen
+Glazed Tiles,16.0,0.9,-15.1,-1677.8,inis_gallia-ardennes,Clay@merrie-yarborn; Charcoal@merrie-shire; Sand@inis_gallia-ardennes
+Tailoring Tools,20.3,5.0,-15.3,-306.0,inis_gallia-javerdus,Heavy Top Grain Leather@merrie-nene; Iron Knife Blade@merrie-ulaid; Antler@merrie-ardbog
+Fine Leather,16.0,0.6,-15.4,-2566.7,merrie-ardbog,Boiled Leather@kerys-llydaw; Lime@inis_gallia-morvan; Water@ancien-armanhac
+Cinderlace Hose,21.12,5.0,-16.12,-322.4,merrie-shire,Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan; Sewing Needles@kerys-dreger; Silver Thread@kerys-bronyr
+Iron Ingot,18.31,2.0,-16.31,-815.6,merrie-yarborn,Impure Iron Ore@ancien-gravas; Charcoal@merrie-shire
+Aurum Buttons,22.0,5.0,-17.0,-340.0,kerys-dolavon,Aurum Ingot@merrie-yarborn; Cotton Cord@merrie-nene
+Heavy Quilted Wool Core,28.0,10.0,-18.0,-180.0,merrie-shire,Fine Wool Cloth@kerys-tremen; Linen String@inis_gallia-langres; Horn Needles@kerys-tremen
+Coarse Wool Cloth,20.0,2.0,-18.0,-900.0,merrie-gael,Wool Yarn@ancien-tursan
+Brushed Gold Bracelet,20.0,2.0,-18.0,-900.0,merrie-ulaid,Aurum Ingot@merrie-yarborn
+Pilgrim's Vambraces II,20.8,2.0,-18.8,-940.0,inis_gallia-atigny,Iron Sheet@inis_gallia-langres; Coarse Leather Band@merrie-ardbog; Bronze Buckle@inis_gallia-nones; Iron Studs@ancien-astarac
+Shiny Gold Earring,24.0,5.0,-19.0,-380.0,ancien-lavedan,Silver Ingot@kerys-tremen; Pearl@kerys-dolavon
+Silver Arrowhead,20.0,0.9,-19.1,-2122.2,inis_gallia-langres,Silver Ingot@kerys-tremen
+Baking Tools,24.33,5.0,-19.33,-386.6,kerys-bronyr,Iron Sheet@inis_gallia-langres; Fine Linen Cloth@inis_gallia-nones; Fine Wooden Plank@ancien-tursan; Boiled Leather@kerys-llydaw
+Wrought Iron Skinning Knife,21.4,2.0,-19.4,-970.0,inis_gallia-aras,Iron Knife Blade@merrie-ulaid; Wrought Iron Sheet@ancien-astarac; Long Fine Wood Stock@kerys-llydaw; Coarse Leather Band@merrie-ardbog
+Tonic of Vitality I,25.75,6.0,-19.75,-329.2,inis_gallia-javerdus,Loios' Tears Leaf Extract@merrie-gael; Water@ancien-armanhac; Large Vial@kerys-aven
+Large Potion of Spirit II,25.75,6.0,-19.75,-329.2,inis_gallia-javerdus,Loios' Tears Leaf Extract@merrie-gael; Water@ancien-armanhac; Large Vial@kerys-aven
+Coarse Cotton Cloth,25.0,5.0,-20.0,-400.0,inis_gallia-vitry,Cotton Cord@merrie-nene
+Health Tonic I,25.75,5.0,-20.75,-415.0,inis_gallia-javerdus,Skullcap Extract@inis_gallia-langres; Water@ancien-armanhac; Large Vial@kerys-aven
+Wrought Iron Pickaxe,36.0,15.0,-21.0,-140.0,ancien-lavedan,Axe Handle@ancien-tursan; Wrought Iron Spike@ancien-tursan; Wrought Iron Bar@inis_gallia-langres; Coarse Leather Band@merrie-ardbog
+Potion of the Aegis,28.75,7.5,-21.25,-283.3,inis_gallia-javerdus,Elegant Stinkhorn Extract@inis_gallia-langres; Water@ancien-armanhac; Large Vial@kerys-aven
+Aegis Potion X,23.75,2.5,-21.25,-850.0,kerys-ewyas,Bladder Campion Extract@merrie-shire; Water@ancien-armanhac; Large Vial@kerys-aven
+Iron Heater,22.6,1.0,-21.6,-2160.0,kerys-retz,Plank@inis_gallia-langres; Iron Sheet@inis_gallia-langres; Iron Studs@ancien-astarac; Coarse Leather Band@merrie-ardbog
+Pilgrim's Breeches IV,73.0,51.0,-22.0,-43.1,kerys-bronyr,Horn Needles@kerys-tremen; Fine Wool Cloth@kerys-tremen; Leather Straps@inis_gallia-langres
+Silver Thread,24.0,2.0,-22.0,-1100.0,kerys-bronyr,Silver Ingot@kerys-tremen; Cotton Cord@merrie-nene
+Minor Tonic of Vitality III,23.75,1.0,-22.75,-2275.0,ancien-lavedan,Bladder Campion Extract@merrie-shire; Water@ancien-armanhac; Large Vial@kerys-aven
+Iron Oak Tiara,24.02,1.0,-23.02,-2302.0,kerys-dreger,Iron Ingot@merrie-yarborn; Sewing Needles@kerys-dreger
+Iron Bind Circlet,24.02,1.0,-23.02,-2302.0,kerys-dreger,Iron Ingot@merrie-yarborn; Sewing Needles@kerys-dreger
+Pilgrim's Mitts IV,63.1,40.0,-23.1,-57.8,kerys-aven,Horn Needles@kerys-tremen; Fine Wool Cloth@kerys-tremen; Linen String@inis_gallia-langres
+Pilgrim's Armbands IV,63.14,40.0,-23.14,-57.8,kerys-aven,Horn Needles@kerys-tremen; Fine Wool Cloth@kerys-tremen; Linen String@inis_gallia-langres; Coarse Leather String@ancien-volvestre
+Iron Axe Head,24.0,0.5,-23.5,-4700.0,ancien-tursan,Iron Sheet@inis_gallia-langres; Iron Ingot@merrie-yarborn
+Two-handed Wrought Iron Spear,44.0,20.0,-24.0,-120.0,kerys-dolavon,Spear Shaft@inis_gallia-jura; Wrought Iron Spike@ancien-tursan; Bronze Nails@kerys-aven; Coarse Leather Band@merrie-ardbog; Wrought Iron Bar@inis_gallia-langres
+Fine Linen Cloth,26.25,1.25,-25.0,-2000.0,inis_gallia-nones,Linen Cloth@inis_gallia-ardennes
+Ivorylace Hose,45.12,20.0,-25.12,-125.6,kerys-bronyr,Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan; Sewing Needles@kerys-dreger; Aurum Thread@inis_gallia-vitry
+Cooking Tools,36.0,10.0,-26.0,-260.0,inis_gallia-langres,Iron Sheet@inis_gallia-langres; Heavy Top Grain Leather@merrie-nene; Bronze Bar@inis_gallia-aras; Charcoal@merrie-shire
+Wrought Iron Greatmaul,41.6,15.0,-26.6,-177.3,inis_gallia-langres,Mace Grip@inis_gallia-jura; Wrought Iron Ingot@kerys-tremen; Wrought Iron Spike@ancien-tursan; Coarse Leather Band@merrie-ardbog; Iron Nails@merrie-wiht
+Large Potion of Spirit I,27.75,1.0,-26.75,-2675.0,inis_gallia-jura,Wolfsbane Leaf Extract@merrie-ulaid; Water@ancien-armanhac; Large Vial@kerys-aven
+Fine Wool Cloth,30.0,2.5,-27.5,-1100.0,kerys-tremen,Wool Cloth@kerys-tremen
+Cold Resistance II,29.65,2.0,-27.65,-1382.5,inis_gallia-jura,Deadly Nightshade Fruit Extract@ancien-astarac; Water@ancien-armanhac; Large Vial@kerys-aven
+Silvery Earring,42.67,15.0,-27.67,-184.4,merrie-ulaid,Bronze Ingot@ancien-volvestre; Tourmaline@inis_gallia-nones
+Wool Cloth,30.0,2.0,-28.0,-1400.0,kerys-tremen,Coarse Wool Cloth@merrie-gael
+Lunar Oak Tiara,48.02,19.0,-29.02,-152.7,kerys-bronyr,Silver Ingot@kerys-tremen; Sewing Needles@kerys-dreger
+Pilgrim's Vambraces III,51.0,20.0,-31.0,-155.0,kerys-llydaw,Wrought Iron Lames@kerys-bronyr; Rough Leather Straps@inis_gallia-langres; Wrought Iron Studs@ancien-lavedan
+Pilgrim's Bracers IV,56.6,25.0,-31.6,-126.4,kerys-retz,Medium Top Grain Leather@merrie-yarborn; Leather Pads@ancien-lavedan; Leather Straps@inis_gallia-langres; Cotton Wadding@merrie-down; Linseed Oil@kerys-aven
+Weaponsmithing Tools,42.0,10.0,-32.0,-320.0,inis_gallia-trecassis,Wrought Iron Sheet@ancien-astarac; Heavy Top Grain Leather@merrie-nene; Iron Nails@merrie-wiht; Bronze Sheet@inis_gallia-trecassis
+Wrought Iron Chopping Axe,37.0,5.0,-32.0,-640.0,kerys-dreger,Axe Handle@ancien-tursan; Wrought Iron Axe Head@merrie-ulaid; Bronze Nails@kerys-aven; Coarse Leather Band@merrie-ardbog
+Wrought Iron Handspear,44.0,10.0,-34.0,-340.0,kerys-llydaw,Spear Shaft@inis_gallia-jura; Wrought Iron Spike@ancien-tursan; Bronze Nails@kerys-aven; Coarse Leather Band@merrie-ardbog; Wrought Iron Bar@inis_gallia-langres
+Wrought Iron Spike,50.0,15.0,-35.0,-233.3,ancien-tursan,Wrought Iron Bar@inis_gallia-langres
+Aurum Thread,40.0,5.0,-35.0,-700.0,inis_gallia-vitry,Aurum Ingot@merrie-yarborn; Cotton Cord@merrie-nene
+Harlequin Bourrelet,85.12,50.0,-35.12,-70.2,ancien-tolosa,Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan; Sewing Needles@kerys-dreger; Pearl@kerys-dolavon
+Wrought Iron Battleaxe,51.2,15.0,-36.2,-241.3,merrie-wiht,Axe Handle@ancien-tursan; Wrought Iron Axe Head@merrie-ulaid; Iron Nails@merrie-wiht; Coarse Leather Band@merrie-ardbog; Wrought Iron Spike@ancien-tursan
+Slender Silver Earring,42.67,4.0,-38.67,-966.7,kerys-dolavon,Bronze Ingot@ancien-volvestre; Tourmaline@inis_gallia-nones
+Silver Opal Amulet,84.0,45.0,-39.0,-86.7,kerys-tremen,Silver Ingot@kerys-tremen; Opal@merrie-ulaid
+Pilgrim's Helmet II,41.0,2.0,-39.0,-1950.0,inis_gallia-aras,Iron Sheet@inis_gallia-langres; Coarse Leather Band@merrie-ardbog; Bronze Buckle@inis_gallia-nones; Iron Studs@ancien-astarac
+Golden Earring,44.0,5.0,-39.0,-780.0,ancien-lavedan,Silver Ingot@kerys-tremen; Opal@merrie-ulaid
+Vial,40.0,0.6666666666666666,-39.33,-5900.0,ancien-lavedan,Glass@ancien-tolosa
+Iron Sword Blade,57.5,18.0,-39.5,-219.4,ancien-gravas,Iron Bar@inis_gallia-nones
+Iron Anvil Head,43.6,4.0,-39.6,-990.0,inis_gallia-aras,Iron Ingot@merrie-yarborn; Charcoal@merrie-shire
+Pilgrim's Breeches III,46.0,5.0,-41.0,-820.0,merrie-down,Horn Needles@kerys-tremen; Fine Linen Cloth@inis_gallia-nones; Rough Leather Straps@inis_gallia-langres
+Armorer Tools,42.0,1.0,-41.0,-4100.0,inis_gallia-trecassis,Wrought Iron Sheet@ancien-astarac; Heavy Top Grain Leather@merrie-nene; Iron Nails@merrie-wiht; Bronze Sheet@inis_gallia-trecassis
+Pilgrim's Hood III,44.5,3.0,-41.5,-1383.3,ancien-lavedan,Horn Needles@kerys-tremen; Fine Linen Cloth@inis_gallia-nones; Cotton Cord@merrie-nene
+Silver Thread Circlet,48.02,3.0,-45.02,-1500.7,inis_gallia-langres,Silver Ingot@kerys-tremen; Sewing Needles@kerys-dreger
+Large Vial,50.0,3.75,-46.25,-1233.3,kerys-aven,Glass@ancien-tolosa
+Shepherd's Hairband of Quiet Gaze II,47.46,1.0,-46.46,-4646.4,inis_gallia-langres,Worn Out Locket@kerys-llydaw; Sigil of Ergamen@kerys-bronyr; Wolfsbane Seed Extract@inis_gallia-langres; Sewing Needles@kerys-dreger; Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan
+Wrought Iron Heater,65.8,10.0,-55.8,-558.0,kerys-llydaw,Fine Wooden Plank@ancien-tursan; Wrought Iron Sheet@ancien-astarac; Wrought Iron Studs@ancien-lavedan; Coarse Leather Band@merrie-ardbog
+Pilgrim's Helmet III,100.94,45.0,-55.94,-124.3,ancien-astarac,Wrought Iron Lames@kerys-bronyr; Coarse Leather String@ancien-volvestre; Bronze Buckle@inis_gallia-nones; Wrought Iron Studs@ancien-lavedan
+Pilgrim's Armbands III,61.89,5.0,-56.89,-1137.8,inis_gallia-atigny,Horn Needles@kerys-tremen; Fine Linen Cloth@inis_gallia-nones; Linen String@inis_gallia-langres; Coarse Leather String@ancien-volvestre
+Pilgrim's Mitts III,61.85,4.0,-57.85,-1446.2,ancien-lavedan,Horn Needles@kerys-tremen; Fine Linen Cloth@inis_gallia-nones; Linen String@inis_gallia-langres
+Attuned Hunter's Bow,66.05,8.0,-58.05,-725.6,kerys-pladenn,Carved Collarstone@inis_gallia-jura; Bow Stave@kerys-pladenn; Boar Sinew@merrie-gael; Linseed Oil@kerys-aven; Coarse Leather Band@merrie-ardbog
+Wrought Iron Ingot,63.6,3.0,-60.6,-2020.0,kerys-tremen,Iron Ingot@merrie-yarborn; Charcoal@merrie-shire
+Silver Opal Necklace,84.0,20.0,-64.0,-320.0,ancien-tolosa,Silver Ingot@kerys-tremen; Opal@merrie-ulaid
+Sylvan Staff II,74.1,9.0,-65.1,-723.3,inis_gallia-nones,Lily of the Valley Extract@inis_gallia-langres; Spear Shaft@inis_gallia-jura; Iron Bar@inis_gallia-nones; Linen String@inis_gallia-langres; Coarse Leather Band@merrie-ardbog
+Staff of Divine II,70.7,5.0,-65.7,-1314.0,kerys-bronyr,Tansy Extract@inis_gallia-trecassis; Spear Shaft@inis_gallia-jura; Iron Bar@inis_gallia-nones; Linen String@inis_gallia-langres; Coarse Leather Band@merrie-ardbog
+Cotton Cloth,75.0,6.0,-69.0,-1150.0,inis_gallia-ardennes,Coarse Cotton Cloth@inis_gallia-vitry
+Verdant Bourrelet,85.12,15.0,-70.12,-467.5,inis_gallia-ardennes,Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan; Sewing Needles@kerys-dreger; Pearl@kerys-dolavon
+Pilgrim's Legguards II,121.7,50.0,-71.7,-143.4,inis_gallia-morvan,Iron Sheet@inis_gallia-langres; Coarse Leather Band@merrie-ardbog; Bronze Buckle@inis_gallia-nones; Iron Studs@ancien-astarac
+Iron Pickaxe,81.5,1.0,-80.5,-8050.0,inis_gallia-nones,Axe Handle@ancien-tursan; Iron Spike@inis_gallia-nones; Iron Bar@inis_gallia-nones; Coarse Leather Band@merrie-ardbog
+Sanctified Oil,173.5,80.0,-93.5,-116.9,merrie-wiht,Ambergrasp Extract@kerys-dolavon; Chiseled Canonites@kerys-dolavon
+Attuned Iron Greatmaul,243.5,150.0,-93.5,-62.3,merrie-gael,Furry Collarstone@ancien-salias; Mace Grip@inis_gallia-jura; Iron Ingot@merrie-yarborn; Iron Spike@inis_gallia-nones; Coarse Leather Band@merrie-ardbog; Bronze Nails@kerys-aven
+Steel Ingot,108.0,10.0,-98.0,-980.0,kerys-dolavon,Wrought Iron Ingot@kerys-tremen; Charcoal@merrie-shire
+Dandy Headband,124.0,19.0,-105.0,-552.6,kerys-bronyr,Silver Ingot@kerys-tremen; Opal@merrie-ulaid
+Vanguard's Surcoat of Divine Fervor II,108.21,2.0,-106.21,-5310.7,ancien-armanhac,Worn Out Locket@kerys-llydaw; Rosary of the 99 Pains@ancien-salias; Lead@ancien-gravas; Suede Leather@kerys-tremen; Weapons Belt@kerys-bronyr; Bronze Studs@kerys-aven
+Pilgrim's Legguards III,200.66,90.0,-110.66,-123.0,merrie-down,Wrought Iron Lames@kerys-bronyr; Coarse Leather String@ancien-volvestre; Bronze Buckle@inis_gallia-nones
+Tempered Iron Skinning Knife,133.3,20.0,-113.3,-566.5,ancien-tolosa,Furry Collarstone@ancien-salias; Iron Knife Blade@merrie-ulaid; Long Wood Stock@kerys-aven; Iron Sheet@inis_gallia-langres; Coarse Leather Band@merrie-ardbog
+Attuned Longbow,122.2,5.0,-117.2,-2344.0,kerys-pladenn,Furry Collarstone@ancien-salias; Rough Bow Stave@kerys-pladenn; Boar Sinew@merrie-gael; Coarse Leather Band@merrie-ardbog
+Attuned Iron Mace,243.5,125.0,-118.5,-94.8,inis_gallia-nones,Furry Collarstone@ancien-salias; Mace Grip@inis_gallia-jura; Iron Ingot@merrie-yarborn; Iron Spike@inis_gallia-nones; Coarse Leather Band@merrie-ardbog; Bronze Nails@kerys-aven
+Iron Mace,123.5,2.0,-121.5,-6075.0,ancien-lavedan,Mace Grip@inis_gallia-jura; Iron Ingot@merrie-yarborn; Iron Spike@inis_gallia-nones; Coarse Leather Band@merrie-ardbog; Bronze Nails@kerys-aven
+Opaline Flower Band,124.0,2.0,-122.0,-6100.0,merrie-shire,Silver Ingot@kerys-tremen; Opal@merrie-ulaid
+Iron Greatmaul,123.5,1.0,-122.5,-12250.0,ancien-tolosa,Mace Grip@inis_gallia-jura; Iron Ingot@merrie-yarborn; Iron Spike@inis_gallia-nones; Coarse Leather Band@merrie-ardbog; Bronze Nails@kerys-aven
+Attuned Staff of Zephyr II,432.5,300.0,-132.5,-44.2,kerys-pladenn,Cracked Ethereal Crystal@inis_gallia-vitry; Lavender Extract@inis_gallia-langres; Spear Shaft@inis_gallia-jura; Iron Bar@inis_gallia-nones; Linen String@inis_gallia-langres; Coarse Leather Band@merrie-ardbog
+Attuned Two-handed Iron Spear,160.21,27.0,-133.21,-493.4,merrie-shire,Worn Out Locket@kerys-llydaw; Spear Shaft@inis_gallia-jura; Iron Spike@inis_gallia-nones; Bronze Nails@kerys-aven; Coarse Leather Band@merrie-ardbog; Iron Bar@inis_gallia-nones
+Attuned Iron Handspear,160.21,15.0,-145.21,-968.1,merrie-nene,Worn Out Locket@kerys-llydaw; Spear Shaft@inis_gallia-jura; Iron Spike@inis_gallia-nones; Bronze Nails@kerys-aven; Coarse Leather Band@merrie-ardbog; Iron Bar@inis_gallia-nones
+Two-handed Iron Spear,158.5,10.0,-148.5,-1485.0,kerys-llydaw,Spear Shaft@inis_gallia-jura; Iron Spike@inis_gallia-nones; Bronze Nails@kerys-aven; Coarse Leather Band@merrie-ardbog; Iron Bar@inis_gallia-nones
+Iron Handspear,158.5,2.0,-156.5,-7825.0,ancien-tursan,Spear Shaft@inis_gallia-jura; Iron Spike@inis_gallia-nones; Bronze Nails@kerys-aven; Coarse Leather Band@merrie-ardbog; Iron Bar@inis_gallia-nones
+Silverleaf Bourrelet,165.12,5.0,-160.12,-3202.4,inis_gallia-aras,Linen Cloth@inis_gallia-ardennes; Wool Yarn@ancien-tursan; Sewing Needles@kerys-dreger; Opal@merrie-ulaid
+Sylvan Staff III,478.3,300.0,-178.3,-59.4,ancien-salias,Hematite@ancien-tolosa; Spear Shaft@inis_gallia-jura; Long Fine Wood Stock@kerys-llydaw; Wool Yarn@ancien-tursan; Coarse Leather Band@merrie-ardbog; Linseed Oil@kerys-aven; Bronze Sheet@inis_gallia-trecassis
+Golden Braid Circlet,240.02,50.0,-190.02,-380.0,kerys-llydaw,Aurum Ingot@merrie-yarborn; Sewing Needles@kerys-dreger
+Forge parts,222.2,20.0,-202.2,-1011.0,merrie-ulaid,Long Fine Wood Stock@kerys-llydaw; Cotton Cord@merrie-nene; Boiled Leather@kerys-llydaw; Fine Wooden Plank@ancien-tursan; Wrought Iron Bar@inis_gallia-langres; Iron Anvil Head@inis_gallia-aras; Limestone@merrie-nene
+Solar Oak Tiara,240.02,15.0,-225.02,-1500.1,merrie-ardbog,Aurum Ingot@merrie-yarborn; Sewing Needles@kerys-dreger
+Warded Iron Greatmaul,2243.5,1950.0,-293.5,-15.1,kerys-tremen,Furry Collarstone@ancien-salias; Charm of the Path@kerys-bronyr; Mace Grip@inis_gallia-jura; Iron Ingot@merrie-yarborn; Iron Spike@inis_gallia-nones; Coarse Leather Band@merrie-ardbog; Bronze Nails@kerys-aven
+Ironside's Greaves of Sacred Guard II,310.91,5.0,-305.91,-6118.1,merrie-nene,Worn Out Locket@kerys-llydaw; Amulet of Sanctity@inis_gallia-javerdus; Obsidian@kerys-vanes; Iron Wire@ancien-armanhac; Coarse Linen Cloth@ancien-tursan
+Attuned Staff of Divine II,430.7,100.0,-330.7,-330.7,inis_gallia-ardennes,Cracked Ethereal Crystal@inis_gallia-vitry; Tansy Extract@inis_gallia-trecassis; Spear Shaft@inis_gallia-jura; Iron Bar@inis_gallia-nones; Linen String@inis_gallia-langres; Coarse Leather Band@merrie-ardbog
+Herald's Plates of the Ironroot II,426.06,20.0,-406.06,-2030.3,kerys-dolavon,Worn Out Locket@kerys-llydaw; Talisman of Litanies@inis_gallia-javerdus; Amanita Regalis Extract@kerys-aven; Iron Sheet@inis_gallia-langres; Coarse Linen Cloth@ancien-tursan; Bronze Studs@kerys-aven; Coarse Leather Band@merrie-ardbog
+Honed Bronze Skinning Knife,502.1,75.0,-427.1,-569.5,ancien-lavedan,Rough Whisper of the Star@kerys-pladenn; Bronze Bar@inis_gallia-aras; Sapwood@merrie-gael
+Sanctified Oil II,520.5,75.0,-445.5,-594.0,merrie-nene,Ambergrasp Extract@kerys-dolavon; Chiseled Canonites@kerys-dolavon
+Pilgrim's Tunic II,497.35,1.0,-496.35,-49635.0,kerys-bronyr,Worn Out Sigil@inis_gallia-langres; Amulet of Justice@kerys-bronyr; Lavender@ancien-lavedan; Sewing Needles@kerys-dreger; Linen Cloth@inis_gallia-ardennes; Linen String@inis_gallia-langres; Coarse Leather Band@merrie-ardbog
+Shepherd's Steps of Rushing Wind II,506.93,1.0,-505.93,-50593.4,merrie-wiht,Worn Out Locket@kerys-llydaw; Amulet of the Seventh Mystery@kerys-aven; Alfalfa Extract@inis_gallia-trecassis; Sewing Needles@kerys-dreger; Coarse Wool Cloth@merrie-gael; Coarse Leather String@ancien-volvestre
+Vanguard's Breeches of Holy Strikes II,510.17,2.0,-508.17,-25408.7,kerys-retz,Worn Out Locket@kerys-llydaw; Seal of the Martyrs@inis_gallia-javerdus; Quartz@inis_gallia-nones; Suede Leather@kerys-tremen; Linen String@inis_gallia-langres; Bronze Studs@kerys-aven; Coarse Leather String@ancien-volvestre
+Warrior's Cuirass of Windlash II,542.85,28.0,-514.85,-1838.8,inis_gallia-jura,Furry Collarstone@ancien-salias; Sigil of Alcanor@ancien-lavedan; Magnetite@kerys-aven; Iron Sheet@inis_gallia-langres; Coarse Linen Cloth@ancien-tursan; Bronze Studs@kerys-aven; Coarse Leather Band@merrie-ardbog
+Trickster's Coif of the Slosh II,606.81,2.0,-604.81,-30240.7,kerys-vanes,Worn Out Locket@kerys-llydaw; Sigil of Ambolon@inis_gallia-langres; Wolfsbane Seed Extract@inis_gallia-langres; Suede Leather@kerys-tremen; Quilted Linen Padding@inis_gallia-nones; Linen String@inis_gallia-langres
+Ironside's Greaves of Vital Pulse II,614.41,5.0,-609.41,-12188.1,ancien-salias,Worn Out Locket@kerys-llydaw; Amulet of Holy See@inis_gallia-langres; Henbane Seeds@ancien-volvestre; Iron Wire@ancien-armanhac; Coarse Linen Cloth@ancien-tursan
+Warrior's Helm of Second Breath II,661.5,5.0,-656.5,-13130.0,ancien-astarac,Furry Collarstone@ancien-salias; Veiled Doctrine@kerys-pladenn; Daisy Extract@inis_gallia-trecassis; Iron Sheet@inis_gallia-langres; Coarse Leather Band@merrie-ardbog; Bronze Buckle@inis_gallia-nones; Iron Studs@ancien-astarac
+Cleric's Pantlet of the Hollow Seal II,671.29,2.0,-669.29,-33464.5,ancien-gravas,Cracked Ethereal Crystal@inis_gallia-vitry; Seal of the Flame@inis_gallia-javerdus; Lavender Extract@inis_gallia-langres; Sewing Needles@kerys-dreger; Linen Cloth@inis_gallia-ardennes; Coarse Leather String@ancien-volvestre; Bronze Buckle@inis_gallia-nones; Coarse Leather Band@merrie-ardbog
+Cleric's Cap of Absolution II,770.84,1.0,-769.84,-76984.0,merrie-ulaid,Cracked Ethereal Crystal@inis_gallia-vitry; Saint Veridiana’s Breath@ancien-lavedan; Marsh Marigold@ancien-lavedan; Sewing Needles@kerys-dreger; Linen Cloth@inis_gallia-ardennes; Coarse Leather String@ancien-volvestre; Linen String@inis_gallia-langres
+Attuned Wrought Iron Greatmaul,1241.6,450.0,-791.6,-175.9,kerys-tremen,Cracked Sigil@inis_gallia-langres; Mace Grip@inis_gallia-jura; Wrought Iron Ingot@kerys-tremen; Wrought Iron Spike@ancien-tursan; Coarse Leather Band@merrie-ardbog; Iron Nails@merrie-wiht
+Ironside's Sabatons of Quiet Guard II,843.31,3.0,-840.31,-28010.5,ancien-libornes,Worn Out Locket@kerys-llydaw; Sigil of Lamolon@inis_gallia-jura; Lily of the Valley@kerys-pladenn; Iron Sheet@inis_gallia-langres; Coarse Leather Band@merrie-ardbog; Bronze Buckle@inis_gallia-nones; Iron Studs@ancien-astarac
+Pilgrim's Sabatons II,1281.4,2.0,-1279.4,-63970.0,merrie-ardbog,Worn Out Sigil@inis_gallia-langres; Seal of the Lost Abbot@kerys-pladenn; Cobra Lily@ancien-lavedan; Iron Sheet@inis_gallia-langres; Coarse Leather Band@merrie-ardbog; Bronze Buckle@inis_gallia-nones; Iron Studs@ancien-astarac
+Cleric's Alb of Reflection II,1365.9,4.0,-1361.9,-34047.5,kerys-aven,Cracked Ethereal Crystal@inis_gallia-vitry; Rosarium of Silent Intercession@kerys-bronyr; Obsidian@kerys-vanes; Sewing Needles@kerys-dreger; Quilted Wool Padding@inis_gallia-langres; Coarse Leather Band@merrie-ardbog; Horn Buttons@kerys-aven
+Warrior's Greaves of Rage II,1493.7,10.0,-1483.7,-14837.0,ancien-lavedan,Furry Collarstone@ancien-salias; The Sigil of Amatia@ancien-salias; Fly Agaric Extract@ancien-tolosa; Iron Sheet@inis_gallia-langres; Coarse Leather Band@merrie-ardbog; Bronze Buckle@inis_gallia-nones; Iron Studs@ancien-astarac
+Cleric's Cap of Absolution III,1593.95,9.0,-1584.95,-17610.6,kerys-bronyr,Multifaceted Ethereal Crystal@inis_gallia-vitry; Great Saint Veridiana’s Breath@ancien-lavedan; High Mallow Extract@inis_gallia-langres; Horn Needles@kerys-tremen; Fine Linen Cloth@inis_gallia-nones; Cotton Cord@merrie-nene; Coarse Leather Band@merrie-ardbog
+Pilgrim's Slippers III,1863.42,2.0,-1861.42,-93071.0,merrie-down,Cracked Sigil@inis_gallia-langres; Great Amulet of the Broken Benediction@kerys-bronyr; Cobra Lily@ancien-lavedan; Horn Needles@kerys-tremen; Fine Linen Cloth@inis_gallia-nones; Coarse Leather String@ancien-volvestre
+Pilgrim's Tunic III,1874.7,3.0,-1871.7,-62390.0,merrie-ardbog,Cracked Sigil@inis_gallia-langres; Great Amulet of Justice@kerys-bronyr; Lavender Extract@inis_gallia-langres; Horn Needles@kerys-tremen; Fine Linen Cloth@inis_gallia-nones; Cotton Cord@merrie-nene; Coarse Leather Band@merrie-ardbog
+Ironside's Greaves of Sacred Guard III,2244.26,15.0,-2229.26,-14861.7,ancien-astarac,Cracked Sigil@inis_gallia-langres; Great Amulet of Sanctity@inis_gallia-jura; Amber@inis_gallia-aras; Iron Wire@ancien-armanhac; Stuffed Linen Padding@merrie-shire; Coarse Linen Cloth@ancien-tursan
+Vanguard's Cap of Revocation III,2247.2,10.0,-2237.2,-22372.0,merrie-yarborn,Cracked Sigil@inis_gallia-langres; Great Sigil of Carelena@kerys-pladenn; Sulfur@kerys-aven; Boiled Leather@kerys-llydaw; Stuffed Linen Padding@merrie-shire; Wool Yarn@ancien-tursan; Linseed Oil@kerys-aven
+Shepherd's Smock of Blooming Fold III,2531.62,25.0,-2506.62,-10026.5,ancien-astarac,Mottled Larvae@ancien-lavedan; Great Reliquary of Choir@kerys-bronyr; Starwort Extract@inis_gallia-trecassis; Horn Needles@kerys-tremen; Cotton Wadding@merrie-down; Bronze Buckle@inis_gallia-nones; Silver Buttons@ancien-lavedan; Rough Leather Straps@inis_gallia-langres
+Cleric's Alb of Cleansing III,2901.7,15.0,-2886.7,-19244.7,kerys-ewyas,Multifaceted Ethereal Crystal@inis_gallia-vitry; Great Seal of the Lost Abbot@kerys-pladenn; Sulfur@kerys-aven; Horn Needles@kerys-tremen; Cotton Wadding@merrie-down; Bronze Buckle@inis_gallia-nones; Silver Buttons@ancien-lavedan; Rough Leather Straps@inis_gallia-langres
+Ironside's Harnais of Provocation III,3184.2,97.0,-3087.2,-3182.7,kerys-bronyr,Cracked Sigil@inis_gallia-langres; Great Sigil of Magalast@inis_gallia-langres; Pyrite@merrie-ardbog; Wrought Iron Lames@kerys-bronyr; Stuffed Linen Padding@merrie-shire; Wrought Iron Cuirass@kerys-bronyr; Weapons Belt@kerys-bronyr
+Warrior's Greaves of Rage III,3201.41,90.0,-3111.41,-3457.1,merrie-down,Cracked Sigil@inis_gallia-langres; Great Sigil of Amatia@inis_gallia-langres; Datura Leaf Extract@inis_gallia-trecassis; Wrought Iron Lames@kerys-bronyr; Coarse Leather String@ancien-volvestre; Bronze Buckle@inis_gallia-nones
+Pilgrim's Marchers III,3206.07,2.0,-3204.07,-160203.5,ancien-lavedan,Cracked Sigil@inis_gallia-langres; Great Charm of the Immaculate Grief@kerys-pladenn; Cobra Lily@ancien-lavedan; Boiled Leather@kerys-llydaw; Coarse Leather String@ancien-volvestre; Linen String@inis_gallia-langres; Glue@inis_gallia-aras; Linseed Oil@kerys-aven
+Pilgrim's Sabatons III,3300.94,30.0,-3270.94,-10903.1,ancien-lavedan,Cracked Sigil@inis_gallia-langres; Great Seal of the Lost Abbot@kerys-pladenn; Cobra Lily@ancien-lavedan; Wrought Iron Lames@kerys-bronyr; Coarse Leather String@ancien-volvestre
+Warrior's Cuirass of Windlash III,3384.2,100.0,-3284.2,-3284.2,kerys-dreger,Cracked Sigil@inis_gallia-langres; Great Sigil of Alcanor@inis_gallia-langres; Pyrite@merrie-ardbog; Wrought Iron Lames@kerys-bronyr; Stuffed Linen Padding@merrie-shire; Wrought Iron Cuirass@kerys-bronyr; Weapons Belt@kerys-bronyr
+Pilgrim's Breastplate III,3816.7,40.0,-3776.7,-9441.7,kerys-dolavon,Cracked Sigil@inis_gallia-langres; Great Rosarium of Equilibrium@kerys-pladenn; Lavender Extract@inis_gallia-langres; Wrought Iron Lames@kerys-bronyr; Stuffed Linen Padding@merrie-shire; Wrought Iron Cuirass@kerys-bronyr; Weapons Belt@kerys-bronyr
+Ironside's Helm of Warcry III,4300.94,75.0,-4225.94,-5634.6,kerys-dreger,Cracked Sigil@inis_gallia-langres; Great Charm of the Earthcall@ancien-lavedan; Wrought Iron Lames@kerys-bronyr; Coarse Leather String@ancien-volvestre; Bronze Buckle@inis_gallia-nones; Wrought Iron Studs@ancien-lavedan
+Hunter's Trousers of Binding Roots II,4251.46,2.0,-4249.46,-212473.0,inis_gallia-vitry,Worn Out Sigil@inis_gallia-langres; Sigil of Pellipis@ancien-lavedan; Castor Extract@kerys-pladenn; Suede Leather@kerys-tremen; Linen String@inis_gallia-langres; Bronze Studs@kerys-aven; Coarse Leather String@ancien-volvestre
+Cleric's Alb of Cleansing IV,4834.3,50.0,-4784.3,-9568.6,merrie-shire,Cubic Ethereal Crystal@kerys-bronyr; Majestic Seal of the Lost Abbot@ancien-lavedan; Citrine@ancien-gravas; Horn Needles@kerys-tremen; Heavy Quilted Wool Core@merrie-shire; Silver Buttons@ancien-lavedan; Aurum Buttons@kerys-dolavon; Leather Straps@inis_gallia-langres
+Herald's Helm of the Immovable III,6106.94,100.0,-6006.94,-6006.9,kerys-dreger,Red Runic Leash@ancien-lavedan; Great Blessed Ligarius@ancien-lavedan; Rosemary@kerys-pladenn; Wrought Iron Lames@kerys-bronyr; Coarse Leather String@ancien-volvestre; Bronze Buckle@inis_gallia-nones; Wrought Iron Studs@ancien-lavedan
+Herald's Greaves of the Unfallen III,7543.68,210.0,-7333.68,-3492.2,ancien-armanhac,Red Runic Leash@ancien-lavedan; The Sigil of Zagalo@ancien-lavedan; Onyx@kerys-aven; Iron Wire@ancien-armanhac; Stuffed Linen Padding@merrie-shire; Coarse Linen Cloth@ancien-tursan
+Attuned Iron Battleaxe,9004.0,45.0,-8959.0,-19908.9,merrie-ulaid,Yellow Runic Leash@inis_gallia-trecassis; Axe Handle@ancien-tursan; Iron Axe Head@ancien-tursan; Bronze Nails@kerys-aven; Coarse Leather Band@merrie-ardbog
+Magus' Robe of Concentration IV,11122.34,100.0,-11022.34,-11022.3,ancien-lavedan,Tattered Sigil@kerys-aven; Majestic Amulet of Martyr’s Crown@inis_gallia-langres; Soapwort@inis_gallia-trecassis; Horn Needles@kerys-tremen; Cotton Cloth@inis_gallia-ardennes; Cotton Cord@merrie-nene; Leather Straps@inis_gallia-langres; Coarse Leather String@ancien-volvestre
+Trickster's Coif of the Slosh IV,11561.45,30.0,-11531.45,-38438.2,kerys-retz,Crimson Runic Leash@inis_gallia-atigny; Majestic Sigil of Ambolon@kerys-pladenn; Skullcap Extract@inis_gallia-langres; Medium Top Grain Leather@merrie-yarborn; Wool Felt@kerys-aven; Cotton Cord@merrie-nene; Linseed Oil@kerys-aven

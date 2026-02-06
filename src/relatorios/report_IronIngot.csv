@@ -1,0 +1,5 @@
+,SnapshotDate,Min_Price,Max_Price,Avg_Price,Stock_Count,Zones,Units_Sold_Since_Last,Volume_Sold
+0,2026-01-25 15:41:43.673264,5,200,162.58620689655172,0,"['ancien-volvestre', 'kerys-tremen', 'ancien-tolosa', 'merrie-ulaid', 'inis_gallia-langres', 'merrie-gael', 'inis_gallia-nones']",,
+1,2026-01-25 16:30:00.000000,5,200,162.58620689655172,58,"['ancien-volvestre', 'kerys-tremen', 'ancien-tolosa', 'merrie-ulaid', 'inis_gallia-langres', 'merrie-gael', 'inis_gallia-nones']",1.0,9430.0
+2,2026-01-26 10:37:00.000000,5,200,146.04895104895104,143,"['ancien-volvestre', 'kerys-tremen', 'ancien-tolosa', 'inis_gallia-javerdus', 'merrie-ulaid', 'inis_gallia-langres', 'merrie-gael', 'inis_gallia-nones', 'kerys-dolavon']",0.0,0.0
+3,2026-01-26 18:56:00.000000,5,200,144.31914893617022,235,"['merrie-yarborn', 'kerys-tremen', 'ancien-tolosa', 'inis_gallia-javerdus', 'merrie-ulaid', 'ancien-salias', 'inis_gallia-langres', 'merrie-gael', 'inis_gallia-nones', 'kerys-dolavon']",11.0,1680.0

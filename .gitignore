@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project Specific
+temp/
+*.log
+.vscode/
+.idea/
+
+# Data (Keep data folder but ignore potentially massive temp files if any)
+# We deliberately KEEP data/history tracked for now as per plan, 
+# but ignore the parquets if we switch fully to HF later. 
+# For now, we track them.
+
+# OS
+.DS_Store
+Thumbs.db

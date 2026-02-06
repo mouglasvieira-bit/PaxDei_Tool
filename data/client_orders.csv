@@ -1,0 +1,33 @@
+Client,Item,Quantity,Target_Price,Order_Type,Notes
+Velkas,Silver Ore,,Market,Constant,
+Fadinha,Lime Mortar,,Market,Constant,
+Fadinha,Granite,,Market,Constant,
+Arkahs,Animal Hide,,Market,Constant,
+Jodito,Strawberry,Boxes,Market,Constant,
+Jodito,Blueberry,Boxes,Market,Constant,
+Jodito,Raspberry,Boxes,Market,Constant,
+Betoneira,Cotton Wadding,,Market,Constant,
+Eart,Charcoal,,14.00/Stack,Constant,
+Eart,Wool Fiber,,Market,Constant,
+Eart,Wool Yarn,,Market,Constant,
+Eart,Flax,,Market,Constant,
+Eart,Linen,,Market,Constant,
+Eart,Antler,,Market,Constant,
+Eart,Barley Grains,,Market,Constant,
+Eart,Blackberry,,Market,Constant,
+Eart,Elderberry,,Market,Constant,
+Lucius Blackheart,Charcoal,,20.00/Stack,Constant,Better price than Eart
+Triumph XI,Wrought Iron Ingot,3 Boxes,5000.00/Box,One-time,15k Total
+Betoneira,Wool Felt,,Market,One-time,
+Crentist,Wool,,Market,Constant,From "wool products" request
+Crentist,Wool Yarn,,Market,Constant,From "wool products" request
+Crentist,Antlers,,Market,Constant,
+Crentist,Linseed Oil,,Market,Constant,
+Sucram,Bear Carcass,,Market,Constant,
+Sucram,Elderberry,,Market,Constant,
+Sucram,Wheat Grain,,Market,Constant,
+Sucram,Barley Grains,,Market,Constant,
+Sucram,Oyster Mushroom,,Market,Constant,
+Sucram,Morel,,Market,Constant,
+Sucram,Hops,,Market,Constant,
+Sucram,White Grapes,,Market,Constant,
