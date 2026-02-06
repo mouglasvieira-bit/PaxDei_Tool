@@ -107,6 +107,13 @@ Para garantir que você (Investidor) tenha sempre a melhor inteligência de merc
 
     *(Nota: A atualização de receitas `build_recipe_catalog.py` só deve ser feita após Patches do jogo).*
 
+    ---
+    ### 🤖 Automação via GitHub Actions
+    O projeto roda automaticamente **a cada 30 minutos** via GitHub Actions.
+    - **Dados**: Os snapshots (`.parquet`) são enviados automaticamente para um Dataset no Hugging Face.
+    - **Backup**: O GitHub serve como repositório de código, enquanto o Hugging Face atua como Data Lake (Projected ~80GB/ano).
+    ---
+
 **Dica de Ouro:** Execute a coleta em horários de pico (manhã e noite) para capturar a volatilidade e vendas rápidas. Utilize a informação de `Top_Zone` no relatório de liquidez para fazer arbitragem de transporte.
 
 **Output**:

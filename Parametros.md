@@ -42,11 +42,10 @@ Aja como um **Engenheiro de Dados Sênior e Analista Quantitativo**. Ao gerar c�
 
 ## ⚡ Prompt para Loop Diário (Copiar e Colar)
 >Leia os parametros
-> "Execute o **Ciclo Diário de Coleta (Data Ingestion)**:
-1. Fetch Market Prices (Garantir Snapshot e Histórico).
-1. Fetch Market Prices (Garantir Snapshot e Histórico).
+> "O sistema roda automaticamente **a cada 30 minutos** (GitHub Actions -> Hugging Face).
+> Verifique se os dados no HF estão atualizados."
 
-*Nota: Não rodar analisadores neste momento. Apenas armazenar dados.*"
+*Nota: Não é mais necessário rodar manualmente o fetch, a menos que queira dados em tempo real para uma decisão instantânea.*
 
 
 ## ⚡ Prompts para Análise (Sob Demanda)
