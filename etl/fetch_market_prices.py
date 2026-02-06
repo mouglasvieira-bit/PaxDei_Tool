@@ -207,6 +207,7 @@ def main():
             print("HF_TOKEN not set. Skipping upload.")
     else:
         print("No prices collected.")
+        exit(1) # Fail if empty!
 
 if __name__ == "__main__":
     main()
