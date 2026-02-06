@@ -203,7 +203,8 @@ def main():
         elif not HfApi:
             print("huggingface_hub not installed. Skipping upload.")
         else:
-            print("HF_TOKEN not set. Skipping upload.")    else:
+            print("HF_TOKEN not set. Skipping upload.")
+    else:
         print("No prices collected.")
 
 if __name__ == "__main__":
